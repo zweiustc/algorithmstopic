@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/inf/kernel/!svn/ver/212/trunk/radius/radius-server
+END
+clientlog
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/inf/kernel/!svn/ver/201/trunk/radius/radius-server/clientlog
+END
+client.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/inf/kernel/!svn/ver/201/trunk/radius/radius-server/client.vcproj
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/inf/kernel/!svn/ver/210/trunk/radius/radius-server/Makefile.in
+END
+RadiusConfig.data
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/inf/kernel/!svn/ver/201/trunk/radius/radius-server/RadiusConfig.data
+END
+Server.log
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/inf/kernel/!svn/ver/211/trunk/radius/radius-server/Server.log
+END
+server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/inf/kernel/!svn/ver/210/trunk/radius/radius-server/server.cpp
+END
+restart_server.log
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/inf/kernel/!svn/ver/201/trunk/radius/radius-server/restart_server.log
+END
+Client.log
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/inf/kernel/!svn/ver/211/trunk/radius/radius-server/Client.log
+END
+client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/inf/kernel/!svn/ver/210/trunk/radius/radius-server/client.cpp
+END
+ServerLogConfig.data
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/inf/kernel/!svn/ver/201/trunk/radius/radius-server/ServerLogConfig.data
+END
+server.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/inf/kernel/!svn/ver/201/trunk/radius/radius-server/server.vcproj
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/inf/kernel/!svn/ver/210/trunk/radius/radius-server/Makefile.am
+END
+safe_server.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/inf/kernel/!svn/ver/201/trunk/radius/radius-server/safe_server.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/inf/kernel/!svn/ver/210/trunk/radius/radius-server/Makefile
+END
+ClientLogConfig.data
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/inf/kernel/!svn/ver/201/trunk/radius/radius-server/ClientLogConfig.data
+END

@@ -1,0 +1,736 @@
+2013-08-18 17:38:37,394 [0x7fae0bd207e0:client.cpp(36)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 17:38:46,396 [0x7fae0bd207e0:client.cpp(78)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-08-18 17:40:56,144 [0x7fcb393277e0:client.cpp(36)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 17:41:05,147 [0x7fcb393277e0:client.cpp(78)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-08-18 17:45:45,315 [0x7fce517f27e0:client.cpp(36)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 17:45:47,319 [0x7fce517f27e0:client.cpp(78)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-08-18 18:02:01,953 [0x7fe1f33927e0:client.cpp(36)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 18:02:03,957 [0x7fe1f33927e0:client.cpp(78)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-08-18 19:11:45,037 [0x7f89e683e7e0:client.cpp(36)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 19:11:47,041 [0x7f89e683e7e0:client.cpp(78)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-08-18 19:13:17,684 [0x7f340deac7e0:client.cpp(36)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 19:13:19,688 [0x7f340deac7e0:client.cpp(78)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-08-18 19:34:36,233 [0x7f871adcf7e0:client.cpp(36)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 19:34:38,237 [0x7f871adcf7e0:client.cpp(78)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-08-18 19:35:23,995 [0x7f574903a7e0:client.cpp(36)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 19:35:25,999 [0x7f574903a7e0:client.cpp(78)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-08-18 19:38:21,993 [0x7f59570687e0:client.cpp(36)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 19:38:23,997 [0x7f59570687e0:client.cpp(78)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-08-18 19:53:39,694 [0x7f28d15137e0:client.cpp(36)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 19:53:49,706 [0x7f28d15137e0:client.cpp(87)] DEBUG RadiusClient - ---Packet transmit failure---
+2013-08-18 19:58:50,890 [0x7f0a47c827e0:client.cpp(36)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 19:59:00,901 [0x7f0a47c827e0:client.cpp(87)] DEBUG RadiusClient - ---Packet transmit failure---
+2013-08-18 20:00:05,622 [0x7f49d0f1f7e0:client.cpp(36)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 20:00:07,626 [0x7f49d0f1f7e0:client.cpp(78)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-08-18 20:01:39,262 [0x7fe9dfe787e0:client.cpp(36)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 20:01:41,266 [0x7fe9dfe787e0:client.cpp(78)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-08-18 20:02:17,956 [0x7fe3cd7dc7e0:client.cpp(36)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 20:02:19,959 [0x7fe3cd7dc7e0:client.cpp(78)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-08-18 20:06:47,943 [0x7f17eef0b7e0:client.cpp(36)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 20:06:57,954 [0x7f17eef0b7e0:client.cpp(87)] DEBUG RadiusClient - ---Packet transmit failure---
+2013-08-18 20:10:51,386 [0x7ff5b699f7e0:client.cpp(36)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 20:10:53,392 [0x7ff5b699f7e0:client.cpp(78)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-08-18 20:13:46,286 [0x7fa4ff5277e0:client.cpp(36)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 20:13:48,290 [0x7fa4ff5277e0:client.cpp(78)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-08-18 20:15:40,231 [0x7fec8f5787e0:client.cpp(36)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 20:15:42,235 [0x7fec8f5787e0:client.cpp(78)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-08-18 20:51:31,727 [0x7fdc237ec7e0:client.cpp(36)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 20:51:33,731 [0x7fdc237ec7e0:client.cpp(78)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-08-18 20:53:13,893 [0x7f832df5b7e0:client.cpp(36)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 20:53:15,897 [0x7f832df5b7e0:client.cpp(78)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-08-18 21:06:43,893 [0x7fc7ffcb87e0:client.cpp(36)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 21:06:45,897 [0x7fc7ffcb87e0:client.cpp(78)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-08-18 21:11:01,731 [0x7f95b72227e0:client.cpp(36)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 21:11:03,735 [0x7f95b72227e0:client.cpp(78)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-08-18 21:30:18,198 [0x7ff20ef4d7e0:client.cpp(36)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 21:30:18,200 [0x7ff20ef4d7e0:client.cpp(78)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-08-18 22:17:24,357 [0x7f1af9cbb7e0:client.cpp(121)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 22:17:24,359 [0x7f1af9cbb7e0:client.cpp(158)] DEBUG RadiusClient - the send packet :
+2013-08-18 22:17:24,359 [0x7f1af9cbb7e0:client.cpp(159)] DEBUG RadiusClient - 
+0100003b4c4e76a8482d3689bb61caf6
+ba02d27d01096a69616e676c75021200
+00000000000000000000000000000004
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( 4c 4e 76 a8 48 2d 36 89 bb 61 ca f6 ba 02 d2 7d )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-08-18 22:17:24,359 [0x7f1af9cbb7e0:client.cpp(166)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-08-18 22:17:24,359 [0x7f1af9cbb7e0:client.cpp(168)] DEBUG RadiusClient - 
+0300002684ec97b604d2fdd622643a8e
+bbdcac7a0606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( 84 ec 97 b6 04 d2 fd d6 22 64 3a 8e bb dc ac 7a )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-08-18 22:19:41,848 [0x7f8aa738e7e0:client.cpp(121)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 22:19:41,850 [0x7f8aa738e7e0:client.cpp(158)] DEBUG RadiusClient - the send packet :
+2013-08-18 22:19:41,850 [0x7f8aa738e7e0:client.cpp(159)] DEBUG RadiusClient - 
+0100003bfe677ab4c0e769e246a309ca
+c7c33a3001096a69616e676c75021200
+00000000000000000000000000000004
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( fe 67 7a b4 c0 e7 69 e2 46 a3 09 ca c7 c3 3a 30 )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-08-18 22:19:41,850 [0x7f8aa738e7e0:client.cpp(166)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-08-18 22:19:41,850 [0x7f8aa738e7e0:client.cpp(168)] DEBUG RadiusClient - 
+03000026c6ee6c2103229bbe5053d51f
+ba87e0210606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( c6 ee 6c 21 03 22 9b be 50 53 d5 1f ba 87 e0 21 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-08-18 22:19:41,850 [0x7f8aa738e7e0:client.cpp(175)] DEBUG RadiusClient - ---NO---
+2013-08-18 22:22:49,796 [0x7fc0cf71f7e0:client.cpp(121)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 22:22:49,798 [0x7fc0cf71f7e0:client.cpp(158)] DEBUG RadiusClient - the send packet :
+2013-08-18 22:22:49,798 [0x7fc0cf71f7e0:client.cpp(159)] DEBUG RadiusClient - 
+0100003b77319a6494e697ed7c8959ce
+e164c9fc01096a69616e676c75021200
+00000000000000000000000000000004
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( 77 31 9a 64 94 e6 97 ed 7c 89 59 ce e1 64 c9 fc )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-08-18 22:22:49,799 [0x7fc0cf71f7e0:client.cpp(166)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-08-18 22:22:49,799 [0x7fc0cf71f7e0:client.cpp(168)] DEBUG RadiusClient - 
+030000263b9607caed2f1cf0972ebf11
+264edfe90606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( 3b 96 07 ca ed 2f 1c f0 97 2e bf 11 26 4e df e9 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-08-18 22:22:49,799 [0x7fc0cf71f7e0:client.cpp(175)] DEBUG RadiusClient - ---NO---
+2013-08-18 22:25:15,681 [0x7f168fc3e7e0:client.cpp(121)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 22:25:15,683 [0x7f168fc3e7e0:client.cpp(158)] DEBUG RadiusClient - the send packet :
+2013-08-18 22:25:15,683 [0x7f168fc3e7e0:client.cpp(159)] DEBUG RadiusClient - 
+0100003bde8db9ea82dce9834fb93772
+5ba1585701096a69616e676c75021200
+00000000000000000000000000000004
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( de 8d b9 ea 82 dc e9 83 4f b9 37 72 5b a1 58 57 )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-08-18 22:25:15,683 [0x7f168fc3e7e0:client.cpp(166)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-08-18 22:25:15,683 [0x7f168fc3e7e0:client.cpp(168)] DEBUG RadiusClient - 
+03000026ef34404518e3acfa5028fc91
+bbcce0380606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( ef 34 40 45 18 e3 ac fa 50 28 fc 91 bb cc e0 38 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-08-18 22:25:15,683 [0x7f168fc3e7e0:client.cpp(175)] DEBUG RadiusClient - ---NO---
+2013-08-18 22:30:41,605 [0x7fe1c44677e0:client.cpp(121)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 22:30:41,607 [0x7fe1c44677e0:client.cpp(158)] DEBUG RadiusClient - the send packet :
+2013-08-18 22:30:41,607 [0x7fe1c44677e0:client.cpp(159)] DEBUG RadiusClient - 
+0100003bfd8d094b11cf71cf2522f550
+2d6e006901096a69616e676c75021200
+00000000000000000000000000000004
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( fd 8d 09 4b 11 cf 71 cf 25 22 f5 50 2d 6e 00 69 )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-08-18 22:30:43,609 [0x7fe1c44677e0:client.cpp(166)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-08-18 22:30:43,609 [0x7fe1c44677e0:client.cpp(168)] DEBUG RadiusClient - 
+03000026469147ca72f3080ed585ba43
+edd6da8d0606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( 46 91 47 ca 72 f3 08 0e d5 85 ba 43 ed d6 da 8d )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-08-18 22:30:43,609 [0x7fe1c44677e0:client.cpp(175)] DEBUG RadiusClient - ---NO---
+2013-08-18 22:35:34,121 [0x7f44393987e0:client.cpp(121)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 22:35:34,123 [0x7f44393987e0:client.cpp(158)] DEBUG RadiusClient - the send packet :
+2013-08-18 22:35:34,123 [0x7f44393987e0:client.cpp(159)] DEBUG RadiusClient - 
+0100003b4f5e52d6656ea66b90852131
+0cf7598c01096a69616e676c75021200
+00000000000000000000000000000004
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( 4f 5e 52 d6 65 6e a6 6b 90 85 21 31 0c f7 59 8c )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-08-18 22:35:36,125 [0x7f44393987e0:client.cpp(166)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-08-18 22:35:36,125 [0x7f44393987e0:client.cpp(168)] DEBUG RadiusClient - 
+0300002681ccfd5554c1e4bab8352e9e
+a7a996f90606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( 81 cc fd 55 54 c1 e4 ba b8 35 2e 9e a7 a9 96 f9 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-08-18 22:35:36,125 [0x7f44393987e0:client.cpp(175)] DEBUG RadiusClient - ---NO---
+2013-08-18 22:44:33,141 [0x7f813b1387e0:client.cpp(119)] DEBUG RadiusClient - user test strat
+2013-08-18 22:44:33,141 [0x7f813b1387e0:client.cpp(121)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-18 22:44:33,143 [0x7f813b1387e0:client.cpp(158)] DEBUG RadiusClient - the send packet :
+2013-08-18 22:44:33,143 [0x7f813b1387e0:client.cpp(159)] DEBUG RadiusClient - 
+0100002f9411c3a12695a0f5a3333b0c
+efd3a56c01096a69616e676c75021200
+000000000000000000000000000000
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 47
+16  Request Authenticator = ( 94 11 c3 a1 26 95 a0 f5 a3 33 3b 0c ef d3 a5 6c )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 )
+
+
+2013-08-18 22:44:35,145 [0x7f813b1387e0:client.cpp(166)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-08-18 22:44:35,145 [0x7f813b1387e0:client.cpp(168)] DEBUG RadiusClient - 
+03000026726c42c30f9cd631ea8cb80e
+856c3fb30606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( 72 6c 42 c3 0f 9c d6 31 ea 8c b8 0e 85 6c 3f b3 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-08-18 22:44:35,145 [0x7f813b1387e0:client.cpp(175)] DEBUG RadiusClient - user test---NO---
+2013-08-19 11:06:00,898 [0x7f37275db7e0:client.cpp(55)] DEBUG RadiusClient - user test strat
+2013-08-19 11:06:00,898 [0x7f37275db7e0:client.cpp(57)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-19 11:06:00,900 [0x7f37275db7e0:client.cpp(94)] DEBUG RadiusClient - the send packet :
+2013-08-19 11:06:00,900 [0x7f37275db7e0:client.cpp(95)] DEBUG RadiusClient - 
+0100003be8eb9b93a4c8db7815c1b47e
+f4ca172f01096a69616e676c75021200
+00000000000000000000000000000004
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( e8 eb 9b 93 a4 c8 db 78 15 c1 b4 7e f4 ca 17 2f )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-08-19 11:06:02,902 [0x7f37275db7e0:client.cpp(102)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-08-19 11:06:02,902 [0x7f37275db7e0:client.cpp(104)] DEBUG RadiusClient - 
+0300002696dd8b1cf1cf63327c030fc8
+06bcb8950606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( 96 dd 8b 1c f1 cf 63 32 7c 03 0f c8 06 bc b8 95 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-08-19 11:06:02,902 [0x7f37275db7e0:client.cpp(111)] DEBUG RadiusClient - user test---NO---
+2013-08-19 16:45:23,773 [0x7f03db2f87e0:client.cpp(55)] DEBUG RadiusClient - user test strat
+2013-08-19 16:45:23,773 [0x7f03db2f87e0:client.cpp(57)] DEBUG RadiusClient - Test RADIUS Client application
+2013-08-19 16:45:23,775 [0x7f03db2f87e0:client.cpp(94)] DEBUG RadiusClient - the send packet :
+2013-08-19 16:45:23,775 [0x7f03db2f87e0:client.cpp(95)] DEBUG RadiusClient - 
+0100003bb95b59ffc2df3fa6a389bcc5
+d2d3fa5401096a69616e676c75021200
+00000000000000000000000000000004
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( b9 5b 59 ff c2 df 3f a6 a3 89 bc c5 d2 d3 fa 54 )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-08-19 16:45:25,777 [0x7f03db2f87e0:client.cpp(102)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-08-19 16:45:25,777 [0x7f03db2f87e0:client.cpp(104)] DEBUG RadiusClient - 
+03000026b1b6da1af60af207d4a9e849
+fa6bccfb0606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( b1 b6 da 1a f6 0a f2 07 d4 a9 e8 49 fa 6b cc fb )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-08-19 16:45:25,777 [0x7f03db2f87e0:client.cpp(111)] DEBUG RadiusClient - user test---NO---
+2013-09-10 10:30:15,657 [0x7f80936647e0:client.cpp(57)] DEBUG RadiusClient - user test strat
+2013-09-10 10:30:15,657 [0x7f80936647e0:client.cpp(59)] DEBUG RadiusClient - Test RADIUS Client application
+2013-09-10 10:30:15,658 [0x7f80936647e0:client.cpp(96)] DEBUG RadiusClient - the send packet :
+2013-09-10 10:30:15,658 [0x7f80936647e0:client.cpp(97)] DEBUG RadiusClient - 
+0100003bbf4f11bf691d6ea9a462b3c6
+5c8f966a01096a69616e676c75021200
+00000000000000000000000000000004
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( bf 4f 11 bf 69 1d 6e a9 a4 62 b3 c6 5c 8f 96 6a )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-09-10 10:30:17,660 [0x7f80936647e0:client.cpp(104)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-09-10 10:30:17,660 [0x7f80936647e0:client.cpp(106)] DEBUG RadiusClient - 
+03000026e15ac44be5acc3cfc43da4ed
+0cd46b530606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( e1 5a c4 4b e5 ac c3 cf c4 3d a4 ed 0c d4 6b 53 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-09-10 10:30:17,660 [0x7f80936647e0:client.cpp(113)] DEBUG RadiusClient - user test---NO---
+2013-09-10 10:32:31,513 [0x7fe9e585a7e0:client.cpp(57)] DEBUG RadiusClient - user test strat
+2013-09-10 10:32:31,513 [0x7fe9e585a7e0:client.cpp(59)] DEBUG RadiusClient - Test RADIUS Client application
+2013-09-10 10:32:31,514 [0x7fe9e585a7e0:client.cpp(96)] DEBUG RadiusClient - the send packet :
+2013-09-10 10:32:31,514 [0x7fe9e585a7e0:client.cpp(97)] DEBUG RadiusClient - 
+0100003b971df110180817e05c02ab24
+b805e00401096a69616e676c75021200
+00000000000000000000000000000004
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( 97 1d f1 10 18 08 17 e0 5c 02 ab 24 b8 05 e0 04 )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-09-10 10:32:33,517 [0x7fe9e585a7e0:client.cpp(104)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-09-10 10:32:33,517 [0x7fe9e585a7e0:client.cpp(106)] DEBUG RadiusClient - 
+03000026659cd451fdd9ed77fe3c0dac
+fd2d2fd40606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( 65 9c d4 51 fd d9 ed 77 fe 3c 0d ac fd 2d 2f d4 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-09-10 10:32:33,517 [0x7fe9e585a7e0:client.cpp(113)] DEBUG RadiusClient - user test---NO---
+2013-09-10 10:36:36,294 [0x7f99ebff67e0:client.cpp(57)] DEBUG RadiusClient - user test strat
+2013-09-10 10:36:36,294 [0x7f99ebff67e0:client.cpp(59)] DEBUG RadiusClient - Test RADIUS Client application
+2013-09-10 10:36:36,294 [0x7f99ebff67e0:client.cpp(96)] DEBUG RadiusClient - the send packet :
+2013-09-10 10:36:36,294 [0x7f99ebff67e0:client.cpp(97)] DEBUG RadiusClient - 
+0100003bc16acf7b98ac3e29fb92cff0
+da10099f01096a69616e676c75021200
+00000000000000000000000000000004
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( c1 6a cf 7b 98 ac 3e 29 fb 92 cf f0 da 10 09 9f )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-09-10 10:36:38,297 [0x7f99ebff67e0:client.cpp(104)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-09-10 10:36:38,297 [0x7f99ebff67e0:client.cpp(106)] DEBUG RadiusClient - 
+030000267e5008c5c1c58b9d8e1c395f
+022281570606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( 7e 50 08 c5 c1 c5 8b 9d 8e 1c 39 5f 02 22 81 57 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-09-10 10:36:38,297 [0x7f99ebff67e0:client.cpp(113)] DEBUG RadiusClient - user test---NO---
+2013-09-10 10:53:56,911 [0x7f718a0677e0:client.cpp(57)] DEBUG RadiusClient - user test strat
+2013-09-10 10:53:56,911 [0x7f718a0677e0:client.cpp(59)] DEBUG RadiusClient - Test RADIUS Client application
+2013-09-10 10:53:56,912 [0x7f718a0677e0:client.cpp(96)] DEBUG RadiusClient - the send packet :
+2013-09-10 10:53:56,912 [0x7f718a0677e0:client.cpp(97)] DEBUG RadiusClient - 
+0100003b13b1c23bd9d65b0117c72baa
+cdd0fcb501096a69616e676c75021200
+00000000000000000000000000000004
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( 13 b1 c2 3b d9 d6 5b 01 17 c7 2b aa cd d0 fc b5 )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-09-10 10:53:58,914 [0x7f718a0677e0:client.cpp(104)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-09-10 10:53:58,915 [0x7f718a0677e0:client.cpp(106)] DEBUG RadiusClient - 
+0300002605469a72a82fe161b42e6a9d
+f8ec6a790606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( 05 46 9a 72 a8 2f e1 61 b4 2e 6a 9d f8 ec 6a 79 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-09-10 10:53:58,915 [0x7f718a0677e0:client.cpp(113)] DEBUG RadiusClient - user test---NO---
+2013-09-10 10:58:36,275 [0x7f72937157e0:client.cpp(57)] DEBUG RadiusClient - user test strat
+2013-09-10 10:58:36,275 [0x7f72937157e0:client.cpp(59)] DEBUG RadiusClient - Test RADIUS Client application
+2013-09-10 10:58:36,276 [0x7f72937157e0:client.cpp(96)] DEBUG RadiusClient - the send packet :
+2013-09-10 10:58:36,276 [0x7f72937157e0:client.cpp(97)] DEBUG RadiusClient - 
+0100003b486562a21e138faa111bc082
+9ae72d9601096a69616e676c75021200
+00000000000000000000000000000004
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( 48 65 62 a2 1e 13 8f aa 11 1b c0 82 9a e7 2d 96 )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-09-10 10:58:38,278 [0x7f72937157e0:client.cpp(104)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-09-10 10:58:38,278 [0x7f72937157e0:client.cpp(106)] DEBUG RadiusClient - 
+030000264c2b68d37338a9d9cc2afe17
+bd051e9b0606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( 4c 2b 68 d3 73 38 a9 d9 cc 2a fe 17 bd 05 1e 9b )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-09-10 10:58:38,278 [0x7f72937157e0:client.cpp(113)] DEBUG RadiusClient - user test---NO---
+2013-09-10 11:02:06,700 [0x7f7c311577e0:client.cpp(57)] DEBUG RadiusClient - user test strat
+2013-09-10 11:02:06,700 [0x7f7c311577e0:client.cpp(59)] DEBUG RadiusClient - Test RADIUS Client application
+2013-09-10 11:02:06,701 [0x7f7c311577e0:client.cpp(96)] DEBUG RadiusClient - the send packet :
+2013-09-10 11:02:06,701 [0x7f7c311577e0:client.cpp(97)] DEBUG RadiusClient - 
+0100003b5bd236cc59c29639e95b1f82
+e83243f701096a69616e676c75021200
+00000000000000000000000000000004
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( 5b d2 36 cc 59 c2 96 39 e9 5b 1f 82 e8 32 43 f7 )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-09-10 11:02:08,703 [0x7f7c311577e0:client.cpp(104)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-09-10 11:02:08,703 [0x7f7c311577e0:client.cpp(106)] DEBUG RadiusClient - 
+03000026239eacb5bbd0d0acfd9534c5
+510eb1ca0606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( 23 9e ac b5 bb d0 d0 ac fd 95 34 c5 51 0e b1 ca )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-09-10 11:02:08,703 [0x7f7c311577e0:client.cpp(113)] DEBUG RadiusClient - user test---NO---
+2013-09-10 11:27:21,645 [0x7fbdd4c507e0:client.cpp(57)] DEBUG RadiusClient - user test strat
+2013-09-10 11:27:21,645 [0x7fbdd4c507e0:client.cpp(59)] DEBUG RadiusClient - Test RADIUS Client application
+2013-09-10 11:27:21,646 [0x7fbdd4c507e0:client.cpp(96)] DEBUG RadiusClient - the send packet :
+2013-09-10 11:27:21,646 [0x7fbdd4c507e0:client.cpp(97)] DEBUG RadiusClient - 
+0100003bf923b31f4ecc37ed7d97678d
+f49819b701096a69616e676c75021200
+00000000000000000000000000000004
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( f9 23 b3 1f 4e cc 37 ed 7d 97 67 8d f4 98 19 b7 )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-09-10 11:27:23,648 [0x7fbdd4c507e0:client.cpp(104)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-09-10 11:27:23,648 [0x7fbdd4c507e0:client.cpp(106)] DEBUG RadiusClient - 
+03000026fcd7def4573a318ed0c8868a
+2e4195200606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( fc d7 de f4 57 3a 31 8e d0 c8 86 8a 2e 41 95 20 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-09-10 11:27:23,648 [0x7fbdd4c507e0:client.cpp(113)] DEBUG RadiusClient - user test---NO---
+2013-09-15 21:01:11,971 [0x7f7f203207e0:client.cpp(57)] DEBUG RadiusClient - user test strat
+2013-09-15 21:01:11,971 [0x7f7f203207e0:client.cpp(59)] DEBUG RadiusClient - Test RADIUS Client application
+2013-09-15 21:01:11,972 [0x7f7f203207e0:client.cpp(96)] DEBUG RadiusClient - the send packet :
+2013-09-15 21:01:11,972 [0x7f7f203207e0:client.cpp(97)] DEBUG RadiusClient - 
+0100003b41fc1b07895349785fdbf892
+a9bf52ee01096a69616e676c75021200
+00000000000000000000000000000004
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( 41 fc 1b 07 89 53 49 78 5f db f8 92 a9 bf 52 ee )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-09-15 21:01:13,975 [0x7f7f203207e0:client.cpp(104)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-09-15 21:01:13,975 [0x7f7f203207e0:client.cpp(106)] DEBUG RadiusClient - 
+0300002609f915bdbf363bb8c38981a8
+e12c74f20606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( 09 f9 15 bd bf 36 3b b8 c3 89 81 a8 e1 2c 74 f2 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-09-15 21:01:13,975 [0x7f7f203207e0:client.cpp(113)] DEBUG RadiusClient - user test---NO---
+2013-09-15 21:03:19,745 [0x7fef2674a7e0:client.cpp(57)] DEBUG RadiusClient - user test strat
+2013-09-15 21:03:19,745 [0x7fef2674a7e0:client.cpp(59)] DEBUG RadiusClient - Test RADIUS Client application
+2013-09-15 21:03:19,745 [0x7fef2674a7e0:client.cpp(96)] DEBUG RadiusClient - the send packet :
+2013-09-15 21:03:19,745 [0x7fef2674a7e0:client.cpp(97)] DEBUG RadiusClient - 
+0100003bbfda54b932ee21342d080d88
+8ddd187c01096a69616e676c75021200
+00000000000000000000000000000004
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( bf da 54 b9 32 ee 21 34 2d 08 0d 88 8d dd 18 7c )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-09-15 21:03:21,748 [0x7fef2674a7e0:client.cpp(104)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-09-15 21:03:21,748 [0x7fef2674a7e0:client.cpp(106)] DEBUG RadiusClient - 
+030000267cdbe90d8e44c0ad931b9d4f
+c344360e0606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( 7c db e9 0d 8e 44 c0 ad 93 1b 9d 4f c3 44 36 0e )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-09-15 21:03:21,748 [0x7fef2674a7e0:client.cpp(113)] DEBUG RadiusClient - user test---NO---
+2013-09-15 21:06:03,088 [0x7f22ee0447e0:client.cpp(57)] DEBUG RadiusClient - user test strat
+2013-09-15 21:06:03,088 [0x7f22ee0447e0:client.cpp(59)] DEBUG RadiusClient - Test RADIUS Client application
+2013-09-15 21:06:03,089 [0x7f22ee0447e0:client.cpp(96)] DEBUG RadiusClient - the send packet :
+2013-09-15 21:06:03,089 [0x7f22ee0447e0:client.cpp(97)] DEBUG RadiusClient - 
+0100003bcc27b03aed202a3c3c4802aa
+e19dcdaa01096a69616e676c75021200
+00000000000000000000000000000004
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( cc 27 b0 3a ed 20 2a 3c 3c 48 02 aa e1 9d cd aa )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-09-15 21:06:05,092 [0x7f22ee0447e0:client.cpp(104)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-09-15 21:06:05,092 [0x7f22ee0447e0:client.cpp(106)] DEBUG RadiusClient - 
+03000026a128f3cee5a431d017793fab
+86dec0290606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( a1 28 f3 ce e5 a4 31 d0 17 79 3f ab 86 de c0 29 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-09-15 21:06:05,092 [0x7f22ee0447e0:client.cpp(113)] DEBUG RadiusClient - user test---NO---
+2013-09-15 21:09:54,035 [0x7ff6ab42e7e0:client.cpp(57)] DEBUG RadiusClient - user test strat
+2013-09-15 21:09:54,035 [0x7ff6ab42e7e0:client.cpp(59)] DEBUG RadiusClient - Test RADIUS Client application
+2013-09-15 21:09:54,035 [0x7ff6ab42e7e0:client.cpp(96)] DEBUG RadiusClient - the send packet :
+2013-09-15 21:09:54,036 [0x7ff6ab42e7e0:client.cpp(97)] DEBUG RadiusClient - 
+0100003ba24a0e56503c2f2b97356111
+7ae50bf801096a69616e676c75021200
+00000000000000000000000000000004
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( a2 4a 0e 56 50 3c 2f 2b 97 35 61 11 7a e5 0b f8 )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-09-15 21:09:56,038 [0x7ff6ab42e7e0:client.cpp(104)] DEBUG RadiusClient - ---Packet was successfully transmitted---
+2013-09-15 21:09:56,038 [0x7ff6ab42e7e0:client.cpp(106)] DEBUG RadiusClient - 
+03000026f3642956d3bfe5cc08b6942d
+c4ec10390606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( f3 64 29 56 d3 bf e5 cc 08 b6 94 2d c4 ec 10 39 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-09-15 21:09:56,038 [0x7ff6ab42e7e0:client.cpp(113)] DEBUG RadiusClient - user test---NO---

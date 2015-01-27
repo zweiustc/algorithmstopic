@@ -1,0 +1,1424 @@
+2013-08-18 17:40:56,146 [0x7f2ef076e7e0:server.cpp(296)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 17:40:56,146 [0x7f2ef076e7e0:server.cpp(198)] DEBUG RadiusServer - username = jianglu passpord=123456
+2013-08-18 17:41:05,147 [0x7f2ef076e7e0:server.cpp(74)] ERROR RadiusServer - connect to server failure,connect error!
+2013-08-18 17:41:05,147 [0x7f2ef076e7e0:server.cpp(306)] DEBUG RadiusServer - Verify         NO
+2013-08-18 17:41:05,147 [0x7f2ef076e7e0:server.cpp(309)] DEBUG RadiusServer - *******Verify end****************
+2013-08-18 17:41:05,147 [0x7f2ef076e7e0:server.cpp(296)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 17:41:05,147 [0x7f2ef076e7e0:server.cpp(198)] DEBUG RadiusServer - username = jianglu passpord=123456
+2013-08-18 17:41:14,148 [0x7f2ef076e7e0:server.cpp(74)] ERROR RadiusServer - connect to server failure,connect error!
+2013-08-18 17:41:14,148 [0x7f2ef076e7e0:server.cpp(306)] DEBUG RadiusServer - Verify         NO
+2013-08-18 17:41:14,148 [0x7f2ef076e7e0:server.cpp(309)] DEBUG RadiusServer - *******Verify end****************
+2013-08-18 17:45:45,317 [0x7f437e3d97e0:server.cpp(296)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 17:45:45,317 [0x7f437e3d97e0:server.cpp(198)] DEBUG RadiusServer - username = jianglu passpord=123456
+2013-08-18 17:45:45,319 [0x7f437e3d97e0:server.cpp(77)] DEBUG RadiusServer - connect success
+2013-08-18 17:45:45,319 [0x7f437e3d97e0:server.cpp(93)] DEBUG RadiusServer - send message success!
+2013-08-18 17:45:47,319 [0x7f437e3d97e0:server.cpp(121)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Sun, 18 Aug 2013 09:45:45 GMT
+
+
+2013-08-18 17:45:47,319 [0x7f437e3d97e0:server.cpp(137)] DEBUG RadiusServer - BceVerify reject!
+2013-08-18 17:45:47,319 [0x7f437e3d97e0:server.cpp(306)] DEBUG RadiusServer - Verify         NO
+2013-08-18 17:45:47,319 [0x7f437e3d97e0:server.cpp(309)] DEBUG RadiusServer - *******Verify end****************
+2013-08-18 18:02:01,955 [0x7f6d54d0d7e0:server.cpp(297)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 18:02:01,955 [0x7f6d54d0d7e0:server.cpp(199)] DEBUG RadiusServer - username = jianglu passpord=123456
+2013-08-18 18:02:01,956 [0x7f6d54d0d7e0:server.cpp(78)] DEBUG RadiusServer - connect success
+2013-08-18 18:02:01,956 [0x7f6d54d0d7e0:server.cpp(94)] DEBUG RadiusServer - send message success!
+2013-08-18 18:02:03,956 [0x7f6d54d0d7e0:server.cpp(122)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Sun, 18 Aug 2013 10:02:01 GMT
+
+
+2013-08-18 18:02:03,957 [0x7f6d54d0d7e0:server.cpp(138)] DEBUG RadiusServer - VerifyBceUser reject!
+2013-08-18 18:02:03,957 [0x7f6d54d0d7e0:server.cpp(307)] DEBUG RadiusServer - Verify         NO
+2013-08-18 18:02:03,957 [0x7f6d54d0d7e0:server.cpp(310)] DEBUG RadiusServer - *******Verify end****************
+2013-08-18 19:11:45,039 [0x7f43b48d47e0:server.cpp(299)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 19:11:45,039 [0x7f43b48d47e0:server.cpp(300)] DEBUG RadiusServer - 
+0100003bfd58376ed371d1faa1b6b6ea
+31316e0b01096a69616e676c750212a4
+6290c3a7c5fbcdf62d94870f5f094c04
+06c0a80110050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( fd 58 37 6e d3 71 d1 fa a1 b6 b6 ea 31 31 6e 0b )
+
+
+2013-08-18 19:11:45,039 [0x7f43b48d47e0:server.cpp(199)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-08-18 19:11:45,041 [0x7f43b48d47e0:server.cpp(78)] DEBUG RadiusServer - connect success
+2013-08-18 19:11:45,041 [0x7f43b48d47e0:server.cpp(94)] DEBUG RadiusServer - send message success!
+2013-08-18 19:11:47,041 [0x7f43b48d47e0:server.cpp(122)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Sun, 18 Aug 2013 11:11:45 GMT
+
+
+2013-08-18 19:11:47,041 [0x7f43b48d47e0:server.cpp(138)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-08-18 19:11:47,041 [0x7f43b48d47e0:server.cpp(309)] DEBUG RadiusServer - Verify         NO
+2013-08-18 19:11:47,041 [0x7f43b48d47e0:server.cpp(312)] DEBUG RadiusServer - *******Verify end****************
+2013-08-18 19:13:17,686 [0x7f43b48d47e0:server.cpp(299)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 19:13:17,686 [0x7f43b48d47e0:server.cpp(300)] DEBUG RadiusServer - 
+0100003baca18acc36c9b9754b98548a
+a2c6e33d01096a69616e676c75021255
+abd2a203456f7267daf65eb4d2937e04
+06c0a80110050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( ac a1 8a cc 36 c9 b9 75 4b 98 54 8a a2 c6 e3 3d )
+
+
+2013-08-18 19:13:17,686 [0x7f43b48d47e0:server.cpp(199)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-08-18 19:13:17,688 [0x7f43b48d47e0:server.cpp(78)] DEBUG RadiusServer - connect success
+2013-08-18 19:13:17,688 [0x7f43b48d47e0:server.cpp(94)] DEBUG RadiusServer - send message success!
+2013-08-18 19:13:19,688 [0x7f43b48d47e0:server.cpp(122)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Sun, 18 Aug 2013 11:13:17 GMT
+
+
+2013-08-18 19:13:19,688 [0x7f43b48d47e0:server.cpp(138)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-08-18 19:13:19,688 [0x7f43b48d47e0:server.cpp(309)] DEBUG RadiusServer - Verify         NO
+2013-08-18 19:13:19,688 [0x7f43b48d47e0:server.cpp(312)] DEBUG RadiusServer - *******Verify end****************
+2013-08-18 19:34:36,235 [0x7f2b2532f7e0:server.cpp(299)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 19:34:36,235 [0x7f2b2532f7e0:server.cpp(300)] DEBUG RadiusServer - 
+0100003be531d3178ac908250bf3ff94
+2218911101096a69616e676c750212b5
+e8a66a26fdcb8f98931da31bcd6dca04
+06c0a80110050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( e5 31 d3 17 8a c9 08 25 0b f3 ff 94 22 18 91 11 )
+
+
+2013-08-18 19:34:36,235 [0x7f2b2532f7e0:server.cpp(199)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-08-18 19:34:36,237 [0x7f2b2532f7e0:server.cpp(78)] DEBUG RadiusServer - connect success
+2013-08-18 19:34:36,237 [0x7f2b2532f7e0:server.cpp(94)] DEBUG RadiusServer - send message success!
+2013-08-18 19:34:38,237 [0x7f2b2532f7e0:server.cpp(122)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Sun, 18 Aug 2013 11:34:36 GMT
+
+
+2013-08-18 19:34:38,237 [0x7f2b2532f7e0:server.cpp(138)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-08-18 19:34:38,237 [0x7f2b2532f7e0:server.cpp(309)] DEBUG RadiusServer - Verify         NO
+2013-08-18 19:34:38,237 [0x7f2b2532f7e0:server.cpp(312)] DEBUG RadiusServer - *******Verify end****************
+2013-08-18 19:35:23,997 [0x7f2b2532f7e0:server.cpp(299)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 19:35:23,997 [0x7f2b2532f7e0:server.cpp(300)] DEBUG RadiusServer - 
+0100003b672cc0f5bc37f25b4d298d5c
+1d592c0501096a69616e676c7502120d
+08aa74ca86dd16adf4a3ac66e8209b04
+06c0a80110050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( 67 2c c0 f5 bc 37 f2 5b 4d 29 8d 5c 1d 59 2c 05 )
+
+
+2013-08-18 19:35:23,997 [0x7f2b2532f7e0:server.cpp(199)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-08-18 19:35:23,999 [0x7f2b2532f7e0:server.cpp(78)] DEBUG RadiusServer - connect success
+2013-08-18 19:35:23,999 [0x7f2b2532f7e0:server.cpp(94)] DEBUG RadiusServer - send message success!
+2013-08-18 19:35:25,999 [0x7f2b2532f7e0:server.cpp(122)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Sun, 18 Aug 2013 11:35:24 GMT
+
+
+2013-08-18 19:35:25,999 [0x7f2b2532f7e0:server.cpp(138)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-08-18 19:35:25,999 [0x7f2b2532f7e0:server.cpp(309)] DEBUG RadiusServer - Verify         NO
+2013-08-18 19:35:25,999 [0x7f2b2532f7e0:server.cpp(312)] DEBUG RadiusServer - *******Verify end****************
+2013-08-18 19:38:21,995 [0x7f41a4c197e0:server.cpp(299)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 19:38:21,995 [0x7f41a4c197e0:server.cpp(300)] DEBUG RadiusServer - 
+0100003bc60f02afaaef1590b4633130
+8b85446901096a69616e676c75021221
+c3e978875377a5129fc9263c41993e04
+06c0a80110050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( c6 0f 02 af aa ef 15 90 b4 63 31 30 8b 85 44 69 )
+
+
+2013-08-18 19:38:21,995 [0x7f41a4c197e0:server.cpp(199)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-08-18 19:38:21,996 [0x7f41a4c197e0:server.cpp(78)] DEBUG RadiusServer - connect success
+2013-08-18 19:38:21,997 [0x7f41a4c197e0:server.cpp(94)] DEBUG RadiusServer - send message success!
+2013-08-18 19:38:23,997 [0x7f41a4c197e0:server.cpp(122)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Sun, 18 Aug 2013 11:38:22 GMT
+
+
+2013-08-18 19:38:23,997 [0x7f41a4c197e0:server.cpp(138)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-08-18 19:38:23,997 [0x7f41a4c197e0:server.cpp(309)] DEBUG RadiusServer - Verify         NO
+2013-08-18 19:38:23,997 [0x7f41a4c197e0:server.cpp(312)] DEBUG RadiusServer - *******Verify end****************
+2013-08-18 19:53:39,696 [0x7faaf8e8f7e0:server.cpp(299)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 19:58:50,892 [0x7fbe0265f7e0:server.cpp(299)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 20:00:05,624 [0x7f8d1082d7e0:server.cpp(299)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 20:00:05,625 [0x7f8d1082d7e0:server.cpp(199)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-08-18 20:00:05,626 [0x7f8d1082d7e0:server.cpp(78)] DEBUG RadiusServer - connect success
+2013-08-18 20:00:05,626 [0x7f8d1082d7e0:server.cpp(94)] DEBUG RadiusServer - send message success!
+2013-08-18 20:00:07,626 [0x7f8d1082d7e0:server.cpp(122)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Sun, 18 Aug 2013 12:00:05 GMT
+
+
+2013-08-18 20:00:07,626 [0x7f8d1082d7e0:server.cpp(138)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-08-18 20:00:07,626 [0x7f8d1082d7e0:server.cpp(309)] DEBUG RadiusServer - Verify         NO
+2013-08-18 20:00:07,626 [0x7f8d1082d7e0:server.cpp(312)] DEBUG RadiusServer - *******Verify end****************
+2013-08-18 20:01:39,264 [0x7f22a137e7e0:server.cpp(299)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 20:01:39,264 [0x7f22a137e7e0:server.cpp(199)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-08-18 20:01:39,265 [0x7f22a137e7e0:server.cpp(78)] DEBUG RadiusServer - connect success
+2013-08-18 20:01:39,266 [0x7f22a137e7e0:server.cpp(94)] DEBUG RadiusServer - send message success!
+2013-08-18 20:01:41,266 [0x7f22a137e7e0:server.cpp(122)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Sun, 18 Aug 2013 12:01:39 GMT
+
+
+2013-08-18 20:01:41,266 [0x7f22a137e7e0:server.cpp(138)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-08-18 20:01:41,266 [0x7f22a137e7e0:server.cpp(309)] DEBUG RadiusServer - Verify         NO
+2013-08-18 20:01:41,266 [0x7f22a137e7e0:server.cpp(312)] DEBUG RadiusServer - *******Verify end****************
+2013-08-18 20:02:17,958 [0x7f456b4217e0:server.cpp(299)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 20:02:17,958 [0x7f456b4217e0:server.cpp(300)] DEBUG RadiusServer - ?tBkE
+0100003bf521e0dc49ea45101f729027
+15c6454701096a69616e676c75021225
+5f1722055b99c1c492a32894caa08304
+06c0a80110050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( f5 21 e0 dc 49 ea 45 10 1f 72 90 27 15 c6 45 47 )
+
+
+2013-08-18 20:02:17,958 [0x7f456b4217e0:server.cpp(199)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-08-18 20:02:17,959 [0x7f456b4217e0:server.cpp(78)] DEBUG RadiusServer - connect success
+2013-08-18 20:02:17,959 [0x7f456b4217e0:server.cpp(94)] DEBUG RadiusServer - send message success!
+2013-08-18 20:02:19,959 [0x7f456b4217e0:server.cpp(122)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Sun, 18 Aug 2013 12:02:17 GMT
+
+
+2013-08-18 20:02:19,959 [0x7f456b4217e0:server.cpp(138)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-08-18 20:02:19,959 [0x7f456b4217e0:server.cpp(309)] DEBUG RadiusServer - Verify         NO
+2013-08-18 20:02:19,959 [0x7f456b4217e0:server.cpp(312)] DEBUG RadiusServer - *******Verify end****************
+2013-08-18 20:06:47,945 [0x7fbfd91197e0:server.cpp(299)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 20:10:51,391 [0x7fa8168b57e0:server.cpp(299)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 20:10:51,391 [0x7fa8168b57e0:server.cpp(300)] DEBUG RadiusServer - ????
+0100003bef38f125e2b919db4ff96955
+32d52ddf01096a69616e676c750212ac
+b5f18ae822d3e89fb7cc607d8ef05004
+06c0a80110050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( ef 38 f1 25 e2 b9 19 db 4f f9 69 55 32 d5 2d df )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( ac b5 f1 8a e8 22 d3 e8 9f b7 cc 60 7d 8e f0 50 )
+ 6  NAS-IP-Address (4) = 192.168.1.16 ( c0 a8 01 10 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-08-18 20:10:51,391 [0x7fa8168b57e0:server.cpp(199)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-08-18 20:10:51,392 [0x7fa8168b57e0:server.cpp(78)] DEBUG RadiusServer - connect success
+2013-08-18 20:10:51,392 [0x7fa8168b57e0:server.cpp(94)] DEBUG RadiusServer - send message success!
+2013-08-18 20:10:53,392 [0x7fa8168b57e0:server.cpp(122)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Sun, 18 Aug 2013 12:10:51 GMT
+
+
+2013-08-18 20:10:53,392 [0x7fa8168b57e0:server.cpp(138)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-08-18 20:10:53,392 [0x7fa8168b57e0:server.cpp(309)] DEBUG RadiusServer - Verify         NO
+2013-08-18 20:10:53,392 [0x7fa8168b57e0:server.cpp(312)] DEBUG RadiusServer - *******Verify end****************
+2013-08-18 20:13:46,288 [0x7ff38c8557e0:server.cpp(299)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 20:13:46,288 [0x7ff38c8557e0:server.cpp(301)] DEBUG RadiusServer - 
+0100003bd4b9f435c64c6d64934e0431
+61e0be7301096a69616e676c75021258
+cdcfcc3225cd7fb4071d4725e45f0504
+06c0a80110050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( d4 b9 f4 35 c6 4c 6d 64 93 4e 04 31 61 e0 be 73 )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 58 cd cf cc 32 25 cd 7f b4 07 1d 47 25 e4 5f 05 )
+ 6  NAS-IP-Address (4) = 192.168.1.16 ( c0 a8 01 10 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-08-18 20:13:46,288 [0x7ff38c8557e0:server.cpp(199)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-08-18 20:13:46,290 [0x7ff38c8557e0:server.cpp(78)] DEBUG RadiusServer - connect success
+2013-08-18 20:13:46,290 [0x7ff38c8557e0:server.cpp(94)] DEBUG RadiusServer - send message success!
+2013-08-18 20:13:48,290 [0x7ff38c8557e0:server.cpp(122)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Sun, 18 Aug 2013 12:13:46 GMT
+
+
+2013-08-18 20:13:48,290 [0x7ff38c8557e0:server.cpp(138)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-08-18 20:13:48,290 [0x7ff38c8557e0:server.cpp(310)] DEBUG RadiusServer - Verify         NO
+2013-08-18 20:13:48,290 [0x7ff38c8557e0:server.cpp(313)] DEBUG RadiusServer - *******Verify end****************
+2013-08-18 20:15:40,233 [0x7f57f48e47e0:server.cpp(298)] DEBUG RadiusServer - 127.0.0.1:47815
+2013-08-18 20:15:40,233 [0x7f57f48e47e0:server.cpp(299)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 20:15:40,233 [0x7f57f48e47e0:server.cpp(301)] DEBUG RadiusServer - 
+0100003bfda916cabb22014fdb5545b2
+8cd7fa3c01096a69616e676c750212f4
+a6ba364e6eb6658739acbb634a21ea04
+06c0a80110050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( fd a9 16 ca bb 22 01 4f db 55 45 b2 8c d7 fa 3c )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( f4 a6 ba 36 4e 6e b6 65 87 39 ac bb 63 4a 21 ea )
+ 6  NAS-IP-Address (4) = 192.168.1.16 ( c0 a8 01 10 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-08-18 20:15:40,234 [0x7f57f48e47e0:server.cpp(199)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-08-18 20:15:40,235 [0x7f57f48e47e0:server.cpp(78)] DEBUG RadiusServer - connect success
+2013-08-18 20:15:40,235 [0x7f57f48e47e0:server.cpp(94)] DEBUG RadiusServer - send message success!
+2013-08-18 20:15:42,235 [0x7f57f48e47e0:server.cpp(122)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Sun, 18 Aug 2013 12:15:40 GMT
+
+
+2013-08-18 20:15:42,235 [0x7f57f48e47e0:server.cpp(138)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-08-18 20:15:42,235 [0x7f57f48e47e0:server.cpp(310)] DEBUG RadiusServer - Verify         NO
+2013-08-18 20:15:42,235 [0x7f57f48e47e0:server.cpp(313)] DEBUG RadiusServer - *******Verify end****************
+2013-08-18 20:51:31,730 [0x7fd05233f7e0:server.cpp(299)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 20:51:31,730 [0x7fd05233f7e0:server.cpp(300)] DEBUG RadiusServer - receive request from ip 
+2013-08-18 20:51:31,730 [0x7fd05233f7e0:server.cpp(301)] DEBUG RadiusServer - 127.0.0.1:60616
+2013-08-18 20:51:31,730 [0x7fd05233f7e0:server.cpp(303)] DEBUG RadiusServer - 
+0100003b1b19d22379cea4003e819a6d
+402684cd01096a69616e676c750212e0
+78de6b76b26766f3da1412eb7fbd9b04
+06c0a80110050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( 1b 19 d2 23 79 ce a4 00 3e 81 9a 6d 40 26 84 cd )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( e0 78 de 6b 76 b2 67 66 f3 da 14 12 eb 7f bd 9b )
+ 6  NAS-IP-Address (4) = 192.168.1.16 ( c0 a8 01 10 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-08-18 20:51:31,730 [0x7fd05233f7e0:server.cpp(199)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-08-18 20:51:31,731 [0x7fd05233f7e0:server.cpp(78)] DEBUG RadiusServer - connect success
+2013-08-18 20:51:31,731 [0x7fd05233f7e0:server.cpp(94)] DEBUG RadiusServer - send message success!
+2013-08-18 20:51:33,731 [0x7fd05233f7e0:server.cpp(122)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Sun, 18 Aug 2013 12:51:31 GMT
+
+
+2013-08-18 20:51:33,731 [0x7fd05233f7e0:server.cpp(138)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-08-18 20:51:33,731 [0x7fd05233f7e0:server.cpp(312)] DEBUG RadiusServer - Verify         NO
+2013-08-18 20:51:33,731 [0x7fd05233f7e0:server.cpp(315)] DEBUG RadiusServer - *******Verify end****************
+2013-08-18 20:53:13,895 [0x7f02725527e0:server.cpp(299)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 20:53:13,895 [0x7f02725527e0:server.cpp(300)] DEBUG RadiusServer - receive request from ip 
+2013-08-18 20:53:13,895 [0x7f02725527e0:server.cpp(301)] DEBUG RadiusServer - 127.0.0.1:38881
+2013-08-18 20:53:13,895 [0x7f02725527e0:server.cpp(303)] DEBUG RadiusServer - request body:   
+2013-08-18 20:53:13,896 [0x7f02725527e0:server.cpp(304)] DEBUG RadiusServer - 
+0100003beb36d4bb5d199c8280464b5d
+76de90ba01096a69616e676c750212c3
+b42e072e0f12bf2412935f8cf3c1c404
+06c0a80110050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( eb 36 d4 bb 5d 19 9c 82 80 46 4b 5d 76 de 90 ba )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( c3 b4 2e 07 2e 0f 12 bf 24 12 93 5f 8c f3 c1 c4 )
+ 6  NAS-IP-Address (4) = 192.168.1.16 ( c0 a8 01 10 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-08-18 20:53:13,896 [0x7f02725527e0:server.cpp(199)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-08-18 20:53:13,897 [0x7f02725527e0:server.cpp(78)] DEBUG RadiusServer - connect success
+2013-08-18 20:53:13,897 [0x7f02725527e0:server.cpp(94)] DEBUG RadiusServer - send message success!
+2013-08-18 20:53:15,897 [0x7f02725527e0:server.cpp(122)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Sun, 18 Aug 2013 12:53:13 GMT
+
+
+2013-08-18 20:53:15,897 [0x7f02725527e0:server.cpp(138)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-08-18 20:53:15,897 [0x7f02725527e0:server.cpp(313)] DEBUG RadiusServer - Verify         NO
+2013-08-18 20:53:15,897 [0x7f02725527e0:server.cpp(316)] DEBUG RadiusServer - *******Verify end****************
+2013-08-18 21:06:43,895 [0x7f47366f17e0:server.cpp(299)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 21:06:43,895 [0x7f47366f17e0:server.cpp(300)] DEBUG RadiusServer - receive request from ip 
+2013-08-18 21:06:43,895 [0x7f47366f17e0:server.cpp(301)] DEBUG RadiusServer - 127.0.0.1:37503
+2013-08-18 21:06:43,895 [0x7f47366f17e0:server.cpp(303)] DEBUG RadiusServer - request body:   
+2013-08-18 21:06:43,895 [0x7f47366f17e0:server.cpp(304)] DEBUG RadiusServer - 
+0100003bc7447168da3a8f4ffb0115bb
+07f15e6e01096a69616e676c7502122d
+c296c7b77da2ffc11d27e81469baee04
+06c0a80110050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( c7 44 71 68 da 3a 8f 4f fb 01 15 bb 07 f1 5e 6e )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 2d c2 96 c7 b7 7d a2 ff c1 1d 27 e8 14 69 ba ee )
+ 6  NAS-IP-Address (4) = 192.168.1.16 ( c0 a8 01 10 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-08-18 21:06:43,895 [0x7f47366f17e0:server.cpp(199)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-08-18 21:06:43,896 [0x7f47366f17e0:server.cpp(78)] DEBUG RadiusServer - connect success
+2013-08-18 21:06:43,896 [0x7f47366f17e0:server.cpp(94)] DEBUG RadiusServer - send message success!
+2013-08-18 21:06:45,896 [0x7f47366f17e0:server.cpp(122)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Sun, 18 Aug 2013 13:06:43 GMT
+
+
+2013-08-18 21:06:45,897 [0x7f47366f17e0:server.cpp(138)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-08-18 21:06:45,897 [0x7f47366f17e0:server.cpp(313)] DEBUG RadiusServer - Verify         NO
+2013-08-18 21:06:45,897 [0x7f47366f17e0:server.cpp(316)] DEBUG RadiusServer - *******Verify end****************
+2013-08-18 21:11:01,733 [0x7f52289ff7e0:server.cpp(273)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 21:11:01,733 [0x7f52289ff7e0:server.cpp(274)] DEBUG RadiusServer - receive request from ip 
+2013-08-18 21:11:01,733 [0x7f52289ff7e0:server.cpp(275)] DEBUG RadiusServer - 127.0.0.1:13400
+2013-08-18 21:11:01,733 [0x7f52289ff7e0:server.cpp(277)] DEBUG RadiusServer - request packet:   
+2013-08-18 21:11:01,733 [0x7f52289ff7e0:server.cpp(278)] DEBUG RadiusServer - 
+0100003b818857bdb8e33410ae7006df
+a50c501501096a69616e676c7502129d
+f76ad3ed8fc4251b0b326bb347842e04
+06c0a80110050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( 81 88 57 bd b8 e3 34 10 ae 70 06 df a5 0c 50 15 )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 9d f7 6a d3 ed 8f c4 25 1b 0b 32 6b b3 47 84 2e )
+ 6  NAS-IP-Address (4) = 192.168.1.16 ( c0 a8 01 10 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-08-18 21:11:01,733 [0x7f52289ff7e0:server.cpp(199)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-08-18 21:11:01,735 [0x7f52289ff7e0:server.cpp(78)] DEBUG RadiusServer - connect success
+2013-08-18 21:11:01,735 [0x7f52289ff7e0:server.cpp(94)] DEBUG RadiusServer - send message success!
+2013-08-18 21:11:03,735 [0x7f52289ff7e0:server.cpp(122)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Sun, 18 Aug 2013 13:11:01 GMT
+
+
+2013-08-18 21:11:03,735 [0x7f52289ff7e0:server.cpp(138)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-08-18 21:11:03,735 [0x7f52289ff7e0:server.cpp(287)] DEBUG RadiusServer - Verify         NO
+2013-08-18 21:11:03,735 [0x7f52289ff7e0:server.cpp(239)] DEBUG RadiusServer - response packet:
+2013-08-18 21:11:03,735 [0x7f52289ff7e0:server.cpp(240)] DEBUG RadiusServer - 
+03000026baa95a9722dbaa5e30952e8b
+8b2354300606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( ba a9 5a 97 22 db aa 5e 30 95 2e 8b 8b 23 54 30 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-08-18 21:11:03,735 [0x7f52289ff7e0:server.cpp(290)] DEBUG RadiusServer - *******Verify end****************
+2013-08-18 21:30:18,200 [0x7ff8ae2787e0:server.cpp(292)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 21:30:18,200 [0x7ff8ae2787e0:server.cpp(293)] DEBUG RadiusServer - receive request from ip 
+2013-08-18 21:30:18,200 [0x7ff8ae2787e0:server.cpp(294)] DEBUG RadiusServer - 127.0.0.1:41026
+2013-08-18 21:30:18,200 [0x7ff8ae2787e0:server.cpp(296)] DEBUG RadiusServer - request packet:   
+2013-08-18 21:30:18,200 [0x7ff8ae2787e0:server.cpp(297)] DEBUG RadiusServer - 
+0100003b898277eafb40d7f606555bc1
+84be0ac701096a69616e676c7502122b
+35075113ce1062829b0f8441eef23f04
+06c0a80110050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( 89 82 77 ea fb 40 d7 f6 06 55 5b c1 84 be 0a c7 )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 2b 35 07 51 13 ce 10 62 82 9b 0f 84 41 ee f2 3f )
+ 6  NAS-IP-Address (4) = 192.168.1.16 ( c0 a8 01 10 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-08-18 21:30:18,200 [0x7ff8ae2787e0:server.cpp(199)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-08-18 21:30:18,200 [0x7ff8ae2787e0:server.cpp(69)] ERROR RadiusServer - create network connections failure--inet_pton error!
+2013-08-18 21:30:18,200 [0x7ff8ae2787e0:server.cpp(306)] DEBUG RadiusServer - Verify         NO
+2013-08-18 21:30:18,200 [0x7ff8ae2787e0:server.cpp(240)] DEBUG RadiusServer - response packet:
+2013-08-18 21:30:18,200 [0x7ff8ae2787e0:server.cpp(241)] DEBUG RadiusServer - 
+030000266c8d2bdd0c7cac634de8070d
+92a6a3430606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( 6c 8d 2b dd 0c 7c ac 63 4d e8 07 0d 92 a6 a3 43 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-08-18 21:30:18,200 [0x7ff8ae2787e0:server.cpp(309)] DEBUG RadiusServer - *******Verify end****************
+2013-08-18 22:17:24,359 [0x7ffa624427e0:server.cpp(292)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 22:17:24,359 [0x7ffa624427e0:server.cpp(293)] DEBUG RadiusServer - receive request from ip 
+2013-08-18 22:17:24,359 [0x7ffa624427e0:server.cpp(294)] DEBUG RadiusServer - 127.0.0.1:39664
+2013-08-18 22:17:24,359 [0x7ffa624427e0:server.cpp(296)] DEBUG RadiusServer - request packet:   
+2013-08-18 22:17:24,359 [0x7ffa624427e0:server.cpp(297)] DEBUG RadiusServer - 
+0100003b4c4e76a8482d3689bb61caf6
+ba02d27d01096a69616e676c75021273
+c8565a5e8bd051759a1565bbb2e38004
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( 4c 4e 76 a8 48 2d 36 89 bb 61 ca f6 ba 02 d2 7d )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 73 c8 56 5a 5e 8b d0 51 75 9a 15 65 bb b2 e3 80 )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-08-18 22:17:24,359 [0x7ffa624427e0:server.cpp(199)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-08-18 22:17:24,359 [0x7ffa624427e0:server.cpp(69)] ERROR RadiusServer - create network connections failure--inet_pton error!
+2013-08-18 22:17:24,359 [0x7ffa624427e0:server.cpp(306)] DEBUG RadiusServer - Verify         NO
+2013-08-18 22:17:24,359 [0x7ffa624427e0:server.cpp(240)] DEBUG RadiusServer - response packet:
+2013-08-18 22:17:24,359 [0x7ffa624427e0:server.cpp(241)] DEBUG RadiusServer - 
+0300002684ec97b604d2fdd622643a8e
+bbdcac7a0606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( 84 ec 97 b6 04 d2 fd d6 22 64 3a 8e bb dc ac 7a )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-08-18 22:17:24,359 [0x7ffa624427e0:server.cpp(309)] DEBUG RadiusServer - *******Verify end****************
+2013-08-18 22:19:41,850 [0x7f9632b517e0:server.cpp(292)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 22:19:41,850 [0x7f9632b517e0:server.cpp(293)] DEBUG RadiusServer - receive request from ip 
+2013-08-18 22:19:41,850 [0x7f9632b517e0:server.cpp(294)] DEBUG RadiusServer - 127.0.0.1:26664
+2013-08-18 22:19:41,850 [0x7f9632b517e0:server.cpp(296)] DEBUG RadiusServer - request packet:   
+2013-08-18 22:19:41,850 [0x7f9632b517e0:server.cpp(297)] DEBUG RadiusServer - 
+0100003bfe677ab4c0e769e246a309ca
+c7c33a3001096a69616e676c75021266
+8e707ccf735efabac3bd22345defb304
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( fe 67 7a b4 c0 e7 69 e2 46 a3 09 ca c7 c3 3a 30 )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 66 8e 70 7c cf 73 5e fa ba c3 bd 22 34 5d ef b3 )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-08-18 22:19:41,850 [0x7f9632b517e0:server.cpp(199)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-08-18 22:19:41,850 [0x7f9632b517e0:server.cpp(69)] ERROR RadiusServer - create network connections failure--inet_pton error!
+2013-08-18 22:19:41,850 [0x7f9632b517e0:server.cpp(306)] DEBUG RadiusServer - Verify         NO
+2013-08-18 22:19:41,850 [0x7f9632b517e0:server.cpp(240)] DEBUG RadiusServer - response packet:
+2013-08-18 22:19:41,850 [0x7f9632b517e0:server.cpp(241)] DEBUG RadiusServer - 
+03000026c6ee6c2103229bbe5053d51f
+ba87e0210606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( c6 ee 6c 21 03 22 9b be 50 53 d5 1f ba 87 e0 21 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-08-18 22:19:41,850 [0x7f9632b517e0:server.cpp(309)] DEBUG RadiusServer - *******Verify end****************
+2013-08-18 22:22:49,798 [0x7fe0cc61a7e0:server.cpp(292)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 22:22:49,798 [0x7fe0cc61a7e0:server.cpp(293)] DEBUG RadiusServer - receive request from ip 
+2013-08-18 22:22:49,798 [0x7fe0cc61a7e0:server.cpp(294)] DEBUG RadiusServer - 127.0.0.1:20830
+2013-08-18 22:22:49,798 [0x7fe0cc61a7e0:server.cpp(296)] DEBUG RadiusServer - request packet:   
+2013-08-18 22:22:49,798 [0x7fe0cc61a7e0:server.cpp(297)] DEBUG RadiusServer - 
+0100003b77319a6494e697ed7c8959ce
+e164c9fc01096a69616e676c75021257
+6dfd86fb6c10def926bab120956e2004
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( 77 31 9a 64 94 e6 97 ed 7c 89 59 ce e1 64 c9 fc )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 57 6d fd 86 fb 6c 10 de f9 26 ba b1 20 95 6e 20 )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-08-18 22:22:49,798 [0x7fe0cc61a7e0:server.cpp(199)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-08-18 22:22:49,799 [0x7fe0cc61a7e0:server.cpp(69)] ERROR RadiusServer - create network connections failure--inet_pton error!
+2013-08-18 22:22:49,799 [0x7fe0cc61a7e0:server.cpp(306)] DEBUG RadiusServer - Verify         NO
+2013-08-18 22:22:49,799 [0x7fe0cc61a7e0:server.cpp(240)] DEBUG RadiusServer - response packet:
+2013-08-18 22:22:49,799 [0x7fe0cc61a7e0:server.cpp(241)] DEBUG RadiusServer - 
+030000263b9607caed2f1cf0972ebf11
+264edfe90606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( 3b 96 07 ca ed 2f 1c f0 97 2e bf 11 26 4e df e9 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-08-18 22:22:49,799 [0x7fe0cc61a7e0:server.cpp(309)] DEBUG RadiusServer - *******Verify end****************
+2013-08-18 22:25:15,683 [0x7fb245d227e0:server.cpp(293)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 22:25:15,683 [0x7fb245d227e0:server.cpp(294)] DEBUG RadiusServer - receive request from ip 
+2013-08-18 22:25:15,683 [0x7fb245d227e0:server.cpp(295)] DEBUG RadiusServer - 127.0.0.1:19691
+2013-08-18 22:25:15,683 [0x7fb245d227e0:server.cpp(297)] DEBUG RadiusServer - request packet:   
+2013-08-18 22:25:15,683 [0x7fb245d227e0:server.cpp(298)] DEBUG RadiusServer - 
+0100003bde8db9ea82dce9834fb93772
+5ba1585701096a69616e676c75021281
+bffb8d1afddd34d69f8a1c01c27ccf04
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( de 8d b9 ea 82 dc e9 83 4f b9 37 72 5b a1 58 57 )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 81 bf fb 8d 1a fd dd 34 d6 9f 8a 1c 01 c2 7c cf )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-08-18 22:25:15,683 [0x7fb245d227e0:server.cpp(200)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-08-18 22:25:15,683 [0x7fb245d227e0:server.cpp(67)] DEBUG RadiusServer - 
+2013-08-18 22:25:15,683 [0x7fb245d227e0:server.cpp(70)] ERROR RadiusServer - create network connections failure--inet_pton error!
+2013-08-18 22:25:15,683 [0x7fb245d227e0:server.cpp(307)] DEBUG RadiusServer - Verify         NO
+2013-08-18 22:25:15,683 [0x7fb245d227e0:server.cpp(241)] DEBUG RadiusServer - response packet:
+2013-08-18 22:25:15,683 [0x7fb245d227e0:server.cpp(242)] DEBUG RadiusServer - 
+03000026ef34404518e3acfa5028fc91
+bbcce0380606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( ef 34 40 45 18 e3 ac fa 50 28 fc 91 bb cc e0 38 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-08-18 22:25:15,683 [0x7fb245d227e0:server.cpp(310)] DEBUG RadiusServer - *******Verify end****************
+2013-08-18 22:30:41,607 [0x7f07a89497e0:server.cpp(291)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 22:30:41,607 [0x7f07a89497e0:server.cpp(292)] DEBUG RadiusServer - receive request from ip 
+2013-08-18 22:30:41,607 [0x7f07a89497e0:server.cpp(293)] DEBUG RadiusServer - 127.0.0.1:35133
+2013-08-18 22:30:41,607 [0x7f07a89497e0:server.cpp(295)] DEBUG RadiusServer - request packet:   
+2013-08-18 22:30:41,607 [0x7f07a89497e0:server.cpp(296)] DEBUG RadiusServer - 
+0100003bfd8d094b11cf71cf2522f550
+2d6e006901096a69616e676c750212c0
+487a55b0227af5636a8c7f07811f2104
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( fd 8d 09 4b 11 cf 71 cf 25 22 f5 50 2d 6e 00 69 )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( c0 48 7a 55 b0 22 7a f5 63 6a 8c 7f 07 81 1f 21 )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-08-18 22:30:41,607 [0x7f07a89497e0:server.cpp(200)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-08-18 22:30:41,607 [0x7f07a89497e0:server.cpp(67)] DEBUG RadiusServer - 10.38.40.14
+2013-08-18 22:30:41,608 [0x7f07a89497e0:server.cpp(79)] DEBUG RadiusServer - connect success
+2013-08-18 22:30:41,609 [0x7f07a89497e0:server.cpp(95)] DEBUG RadiusServer - send message success!
+2013-08-18 22:30:43,609 [0x7f07a89497e0:server.cpp(123)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Sun, 18 Aug 2013 14:30:41 GMT
+
+
+2013-08-18 22:30:43,609 [0x7f07a89497e0:server.cpp(139)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-08-18 22:30:43,609 [0x7f07a89497e0:server.cpp(305)] DEBUG RadiusServer - Verify         NO
+2013-08-18 22:30:43,609 [0x7f07a89497e0:server.cpp(241)] DEBUG RadiusServer - response packet:
+2013-08-18 22:30:43,609 [0x7f07a89497e0:server.cpp(242)] DEBUG RadiusServer - 
+03000026469147ca72f3080ed585ba43
+edd6da8d0606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( 46 91 47 ca 72 f3 08 0e d5 85 ba 43 ed d6 da 8d )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-08-18 22:30:43,609 [0x7f07a89497e0:server.cpp(308)] DEBUG RadiusServer - *******Verify end****************
+2013-08-18 22:35:34,123 [0x7f0c5297a7e0:server.cpp(282)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 22:35:34,123 [0x7f0c5297a7e0:server.cpp(283)] DEBUG RadiusServer - receive request from ip 
+2013-08-18 22:35:34,123 [0x7f0c5297a7e0:server.cpp(284)] DEBUG RadiusServer - 127.0.0.1:32453
+2013-08-18 22:35:34,123 [0x7f0c5297a7e0:server.cpp(286)] DEBUG RadiusServer - request packet:   
+2013-08-18 22:35:34,123 [0x7f0c5297a7e0:server.cpp(287)] DEBUG RadiusServer - 
+0100003b4f5e52d6656ea66b90852131
+0cf7598c01096a69616e676c75021224
+eb9ecd9dc1f36fba546118aeba5b2704
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( 4f 5e 52 d6 65 6e a6 6b 90 85 21 31 0c f7 59 8c )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 24 eb 9e cd 9d c1 f3 6f ba 54 61 18 ae ba 5b 27 )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-08-18 22:35:34,123 [0x7f0c5297a7e0:server.cpp(191)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-08-18 22:35:34,125 [0x7f0c5297a7e0:server.cpp(70)] DEBUG RadiusServer - connect success
+2013-08-18 22:35:34,125 [0x7f0c5297a7e0:server.cpp(86)] DEBUG RadiusServer - send message success!
+2013-08-18 22:35:36,125 [0x7f0c5297a7e0:server.cpp(114)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Sun, 18 Aug 2013 14:35:34 GMT
+
+
+2013-08-18 22:35:36,125 [0x7f0c5297a7e0:server.cpp(130)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-08-18 22:35:36,125 [0x7f0c5297a7e0:server.cpp(296)] DEBUG RadiusServer - Verify         NO
+2013-08-18 22:35:36,125 [0x7f0c5297a7e0:server.cpp(232)] DEBUG RadiusServer - response packet:
+2013-08-18 22:35:36,125 [0x7f0c5297a7e0:server.cpp(233)] DEBUG RadiusServer - 
+0300002681ccfd5554c1e4bab8352e9e
+a7a996f90606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( 81 cc fd 55 54 c1 e4 ba b8 35 2e 9e a7 a9 96 f9 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-08-18 22:35:36,125 [0x7f0c5297a7e0:server.cpp(299)] DEBUG RadiusServer - *******Verify end****************
+2013-08-18 22:44:33,143 [0x7fc2dbb627e0:server.cpp(282)] DEBUG RadiusServer - *********Verify start**********
+2013-08-18 22:44:33,143 [0x7fc2dbb627e0:server.cpp(283)] DEBUG RadiusServer - receive request from ip 
+2013-08-18 22:44:33,143 [0x7fc2dbb627e0:server.cpp(284)] DEBUG RadiusServer - 127.0.0.1:20360
+2013-08-18 22:44:33,143 [0x7fc2dbb627e0:server.cpp(286)] DEBUG RadiusServer - request packet:   
+2013-08-18 22:44:33,143 [0x7fc2dbb627e0:server.cpp(287)] DEBUG RadiusServer - 
+0100002f9411c3a12695a0f5a3333b0c
+efd3a56c01096a69616e676c75021286
+da6956a80c9d3bea0d007627c653c1
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 47
+16  Request Authenticator = ( 94 11 c3 a1 26 95 a0 f5 a3 33 3b 0c ef d3 a5 6c )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 86 da 69 56 a8 0c 9d 3b ea 0d 00 76 27 c6 53 c1 )
+
+
+2013-08-18 22:44:33,143 [0x7fc2dbb627e0:server.cpp(191)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-08-18 22:44:33,144 [0x7fc2dbb627e0:server.cpp(70)] DEBUG RadiusServer - connect success
+2013-08-18 22:44:33,144 [0x7fc2dbb627e0:server.cpp(86)] DEBUG RadiusServer - send message success!
+2013-08-18 22:44:35,145 [0x7fc2dbb627e0:server.cpp(114)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Sun, 18 Aug 2013 14:44:33 GMT
+
+
+2013-08-18 22:44:35,145 [0x7fc2dbb627e0:server.cpp(130)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-08-18 22:44:35,145 [0x7fc2dbb627e0:server.cpp(296)] DEBUG RadiusServer - Verify         NO
+2013-08-18 22:44:35,145 [0x7fc2dbb627e0:server.cpp(232)] DEBUG RadiusServer - response packet:
+2013-08-18 22:44:35,145 [0x7fc2dbb627e0:server.cpp(233)] DEBUG RadiusServer - 
+03000026726c42c30f9cd631ea8cb80e
+856c3fb30606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( 72 6c 42 c3 0f 9c d6 31 ea 8c b8 0e 85 6c 3f b3 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-08-18 22:44:35,145 [0x7fc2dbb627e0:server.cpp(299)] DEBUG RadiusServer - *******Verify end****************
+2013-08-19 11:06:00,900 [0x7f77a4deb7e0:server.cpp(282)] DEBUG RadiusServer - *********Verify start**********
+2013-08-19 11:06:00,900 [0x7f77a4deb7e0:server.cpp(283)] DEBUG RadiusServer - receive request from ip 
+2013-08-19 11:06:00,900 [0x7f77a4deb7e0:server.cpp(284)] DEBUG RadiusServer - 127.0.0.1:50971
+2013-08-19 11:06:00,900 [0x7f77a4deb7e0:server.cpp(286)] DEBUG RadiusServer - request packet:   
+2013-08-19 11:06:00,900 [0x7f77a4deb7e0:server.cpp(287)] DEBUG RadiusServer - 
+0100003be8eb9b93a4c8db7815c1b47e
+f4ca172f01096a69616e676c75021258
+bd2e84b2d66c6bcb1df115187d587c04
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( e8 eb 9b 93 a4 c8 db 78 15 c1 b4 7e f4 ca 17 2f )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 58 bd 2e 84 b2 d6 6c 6b cb 1d f1 15 18 7d 58 7c )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-08-19 11:06:00,900 [0x7f77a4deb7e0:server.cpp(191)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-08-19 11:06:00,902 [0x7f77a4deb7e0:server.cpp(70)] DEBUG RadiusServer - connect success
+2013-08-19 11:06:00,902 [0x7f77a4deb7e0:server.cpp(86)] DEBUG RadiusServer - send message success!
+2013-08-19 11:06:02,902 [0x7f77a4deb7e0:server.cpp(114)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Mon, 19 Aug 2013 03:06:00 GMT
+
+
+2013-08-19 11:06:02,902 [0x7f77a4deb7e0:server.cpp(130)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-08-19 11:06:02,902 [0x7f77a4deb7e0:server.cpp(296)] DEBUG RadiusServer - Verify         NO
+2013-08-19 11:06:02,902 [0x7f77a4deb7e0:server.cpp(232)] DEBUG RadiusServer - response packet:
+2013-08-19 11:06:02,902 [0x7f77a4deb7e0:server.cpp(233)] DEBUG RadiusServer - 
+0300002696dd8b1cf1cf63327c030fc8
+06bcb8950606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( 96 dd 8b 1c f1 cf 63 32 7c 03 0f c8 06 bc b8 95 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-08-19 11:06:02,902 [0x7f77a4deb7e0:server.cpp(299)] DEBUG RadiusServer - *******Verify end****************
+2013-08-19 16:45:23,775 [0x7fe18ad817e0:server.cpp(283)] DEBUG RadiusServer - *********Verify start**********
+2013-08-19 16:45:23,775 [0x7fe18ad817e0:server.cpp(284)] DEBUG RadiusServer - receive request from ip 
+2013-08-19 16:45:23,775 [0x7fe18ad817e0:server.cpp(285)] DEBUG RadiusServer - 127.0.0.1:21010
+2013-08-19 16:45:23,775 [0x7fe18ad817e0:server.cpp(287)] DEBUG RadiusServer - request packet:   
+2013-08-19 16:45:23,775 [0x7fe18ad817e0:server.cpp(288)] DEBUG RadiusServer - 
+0100003bb95b59ffc2df3fa6a389bcc5
+d2d3fa5401096a69616e676c750212bb
+df2a826d5dc7771f6379bc83af75d304
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( b9 5b 59 ff c2 df 3f a6 a3 89 bc c5 d2 d3 fa 54 )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( bb df 2a 82 6d 5d c7 77 1f 63 79 bc 83 af 75 d3 )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-08-19 16:45:23,776 [0x7fe18ad817e0:server.cpp(191)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-08-19 16:45:23,777 [0x7fe18ad817e0:server.cpp(70)] DEBUG RadiusServer - connect success
+2013-08-19 16:45:23,777 [0x7fe18ad817e0:server.cpp(86)] DEBUG RadiusServer - send message success!
+2013-08-19 16:45:25,777 [0x7fe18ad817e0:server.cpp(114)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Mon, 19 Aug 2013 08:45:23 GMT
+
+
+2013-08-19 16:45:25,777 [0x7fe18ad817e0:server.cpp(130)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-08-19 16:45:25,777 [0x7fe18ad817e0:server.cpp(297)] DEBUG RadiusServer - Verify         NO
+2013-08-19 16:45:25,777 [0x7fe18ad817e0:server.cpp(232)] DEBUG RadiusServer - response packet:
+2013-08-19 16:45:25,777 [0x7fe18ad817e0:server.cpp(233)] DEBUG RadiusServer - 
+03000026b1b6da1af60af207d4a9e849
+fa6bccfb0606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( b1 b6 da 1a f6 0a f2 07 d4 a9 e8 49 fa 6b cc fb )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-08-19 16:45:25,777 [0x7fe18ad817e0:server.cpp(300)] DEBUG RadiusServer - *******Verify end****************
+2013-09-10 10:30:15,658 [0x7f945d4e67e0:server.cpp(283)] DEBUG RadiusServer - *********Verify start**********
+2013-09-10 10:30:15,658 [0x7f945d4e67e0:server.cpp(284)] DEBUG RadiusServer - receive request from ip 
+2013-09-10 10:30:15,658 [0x7f945d4e67e0:server.cpp(285)] DEBUG RadiusServer - 127.0.0.1:58961
+2013-09-10 10:30:15,658 [0x7f945d4e67e0:server.cpp(287)] DEBUG RadiusServer - request packet:   
+2013-09-10 10:30:15,658 [0x7f945d4e67e0:server.cpp(288)] DEBUG RadiusServer - 
+0100003bbf4f11bf691d6ea9a462b3c6
+5c8f966a01096a69616e676c750212ac
+79bacecf28bdea2d47bb8f7e529a6d04
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( bf 4f 11 bf 69 1d 6e a9 a4 62 b3 c6 5c 8f 96 6a )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( ac 79 ba ce cf 28 bd ea 2d 47 bb 8f 7e 52 9a 6d )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-09-10 10:30:15,658 [0x7f945d4e67e0:server.cpp(191)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-09-10 10:30:15,659 [0x7f945d4e67e0:server.cpp(70)] DEBUG RadiusServer - connect success
+2013-09-10 10:30:15,659 [0x7f945d4e67e0:server.cpp(86)] DEBUG RadiusServer - send message success!
+2013-09-10 10:30:17,660 [0x7f945d4e67e0:server.cpp(114)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Tue, 10 Sep 2013 02:30:15 GMT
+
+
+2013-09-10 10:30:17,660 [0x7f945d4e67e0:server.cpp(130)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-09-10 10:30:17,660 [0x7f945d4e67e0:server.cpp(297)] DEBUG RadiusServer - Verify         NO
+2013-09-10 10:30:17,660 [0x7f945d4e67e0:server.cpp(232)] DEBUG RadiusServer - response packet:
+2013-09-10 10:30:17,660 [0x7f945d4e67e0:server.cpp(233)] DEBUG RadiusServer - 
+03000026e15ac44be5acc3cfc43da4ed
+0cd46b530606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( e1 5a c4 4b e5 ac c3 cf c4 3d a4 ed 0c d4 6b 53 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-09-10 10:30:17,660 [0x7f945d4e67e0:server.cpp(300)] DEBUG RadiusServer - *******Verify end****************
+2013-09-10 10:32:31,514 [0x7effd57087e0:server.cpp(283)] DEBUG RadiusServer - *********Verify start**********
+2013-09-10 10:32:31,514 [0x7effd57087e0:server.cpp(284)] DEBUG RadiusServer - receive request from ip 
+2013-09-10 10:32:31,514 [0x7effd57087e0:server.cpp(285)] DEBUG RadiusServer - 127.0.0.1:37435
+2013-09-10 10:32:31,514 [0x7effd57087e0:server.cpp(287)] DEBUG RadiusServer - request packet:   
+2013-09-10 10:32:31,514 [0x7effd57087e0:server.cpp(288)] DEBUG RadiusServer - 
+0100003b971df110180817e05c02ab24
+b805e00401096a69616e676c75021262
+e484185f1a040c54f96c54bf02ae5f04
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( 97 1d f1 10 18 08 17 e0 5c 02 ab 24 b8 05 e0 04 )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 62 e4 84 18 5f 1a 04 0c 54 f9 6c 54 bf 02 ae 5f )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-09-10 10:32:31,514 [0x7effd57087e0:server.cpp(191)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-09-10 10:32:31,516 [0x7effd57087e0:server.cpp(70)] DEBUG RadiusServer - connect success
+2013-09-10 10:32:31,516 [0x7effd57087e0:server.cpp(86)] DEBUG RadiusServer - send message success!
+2013-09-10 10:32:33,517 [0x7effd57087e0:server.cpp(114)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Tue, 10 Sep 2013 02:32:31 GMT
+
+
+2013-09-10 10:32:33,517 [0x7effd57087e0:server.cpp(130)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-09-10 10:32:33,517 [0x7effd57087e0:server.cpp(297)] DEBUG RadiusServer - Verify         NO
+2013-09-10 10:32:33,517 [0x7effd57087e0:server.cpp(232)] DEBUG RadiusServer - response packet:
+2013-09-10 10:32:33,517 [0x7effd57087e0:server.cpp(233)] DEBUG RadiusServer - 
+03000026659cd451fdd9ed77fe3c0dac
+fd2d2fd40606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( 65 9c d4 51 fd d9 ed 77 fe 3c 0d ac fd 2d 2f d4 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-09-10 10:32:33,517 [0x7effd57087e0:server.cpp(300)] DEBUG RadiusServer - *******Verify end****************
+2013-09-10 10:36:36,295 [0x7fc1cb3837e0:server.cpp(283)] DEBUG RadiusServer - *********Verify start**********
+2013-09-10 10:36:36,295 [0x7fc1cb3837e0:server.cpp(284)] DEBUG RadiusServer - receive request from ip 
+2013-09-10 10:36:36,295 [0x7fc1cb3837e0:server.cpp(285)] DEBUG RadiusServer - 127.0.0.1:59104
+2013-09-10 10:36:36,295 [0x7fc1cb3837e0:server.cpp(287)] DEBUG RadiusServer - request packet:   
+2013-09-10 10:36:36,295 [0x7fc1cb3837e0:server.cpp(288)] DEBUG RadiusServer - 
+0100003bc16acf7b98ac3e29fb92cff0
+da10099f01096a69616e676c750212d4
+d5e0d905be10e5bb7521758192dccc04
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( c1 6a cf 7b 98 ac 3e 29 fb 92 cf f0 da 10 09 9f )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( d4 d5 e0 d9 05 be 10 e5 bb 75 21 75 81 92 dc cc )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-09-10 10:36:36,295 [0x7fc1cb3837e0:server.cpp(191)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-09-10 10:36:36,296 [0x7fc1cb3837e0:server.cpp(70)] DEBUG RadiusServer - connect success
+2013-09-10 10:36:36,296 [0x7fc1cb3837e0:server.cpp(86)] DEBUG RadiusServer - send message success!
+2013-09-10 10:36:38,297 [0x7fc1cb3837e0:server.cpp(114)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Tue, 10 Sep 2013 02:36:36 GMT
+
+
+2013-09-10 10:36:38,297 [0x7fc1cb3837e0:server.cpp(130)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-09-10 10:36:38,297 [0x7fc1cb3837e0:server.cpp(297)] DEBUG RadiusServer - Verify         NO
+2013-09-10 10:36:38,297 [0x7fc1cb3837e0:server.cpp(232)] DEBUG RadiusServer - response packet:
+2013-09-10 10:36:38,297 [0x7fc1cb3837e0:server.cpp(233)] DEBUG RadiusServer - 
+030000267e5008c5c1c58b9d8e1c395f
+022281570606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( 7e 50 08 c5 c1 c5 8b 9d 8e 1c 39 5f 02 22 81 57 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-09-10 10:36:38,297 [0x7fc1cb3837e0:server.cpp(300)] DEBUG RadiusServer - *******Verify end****************
+2013-09-10 10:53:56,912 [0x7fb56a1e87e0:server.cpp(283)] DEBUG RadiusServer - *********Verify start**********
+2013-09-10 10:53:56,912 [0x7fb56a1e87e0:server.cpp(284)] DEBUG RadiusServer - receive request from ip 
+2013-09-10 10:53:56,912 [0x7fb56a1e87e0:server.cpp(285)] DEBUG RadiusServer - 127.0.0.1:55990
+2013-09-10 10:53:56,912 [0x7fb56a1e87e0:server.cpp(287)] DEBUG RadiusServer - request packet:   
+2013-09-10 10:53:56,912 [0x7fb56a1e87e0:server.cpp(288)] DEBUG RadiusServer - 
+0100003b13b1c23bd9d65b0117c72baa
+cdd0fcb501096a69616e676c750212ed
+afed2a1f3032372dda604b196f2fea04
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( 13 b1 c2 3b d9 d6 5b 01 17 c7 2b aa cd d0 fc b5 )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( ed af ed 2a 1f 30 32 37 2d da 60 4b 19 6f 2f ea )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-09-10 10:53:56,912 [0x7fb56a1e87e0:server.cpp(191)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-09-10 10:53:56,913 [0x7fb56a1e87e0:server.cpp(70)] DEBUG RadiusServer - connect success
+2013-09-10 10:53:56,913 [0x7fb56a1e87e0:server.cpp(86)] DEBUG RadiusServer - send message success!
+2013-09-10 10:53:58,914 [0x7fb56a1e87e0:server.cpp(114)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Tue, 10 Sep 2013 02:53:56 GMT
+
+
+2013-09-10 10:53:58,914 [0x7fb56a1e87e0:server.cpp(130)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-09-10 10:53:58,914 [0x7fb56a1e87e0:server.cpp(297)] DEBUG RadiusServer - Verify         NO
+2013-09-10 10:53:58,914 [0x7fb56a1e87e0:server.cpp(232)] DEBUG RadiusServer - response packet:
+2013-09-10 10:53:58,914 [0x7fb56a1e87e0:server.cpp(233)] DEBUG RadiusServer - 
+0300002605469a72a82fe161b42e6a9d
+f8ec6a790606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( 05 46 9a 72 a8 2f e1 61 b4 2e 6a 9d f8 ec 6a 79 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-09-10 10:53:58,914 [0x7fb56a1e87e0:server.cpp(300)] DEBUG RadiusServer - *******Verify end****************
+2013-09-10 10:58:36,276 [0x7f53519267e0:server.cpp(283)] DEBUG RadiusServer - *********Verify start**********
+2013-09-10 10:58:36,276 [0x7f53519267e0:server.cpp(284)] DEBUG RadiusServer - receive request from ip 
+2013-09-10 10:58:36,276 [0x7f53519267e0:server.cpp(285)] DEBUG RadiusServer - 127.0.0.1:14028
+2013-09-10 10:58:36,276 [0x7f53519267e0:server.cpp(287)] DEBUG RadiusServer - request packet:   
+2013-09-10 10:58:36,276 [0x7f53519267e0:server.cpp(288)] DEBUG RadiusServer - 
+0100003b486562a21e138faa111bc082
+9ae72d9601096a69616e676c7502122e
+08c85455c9ac2ba6859c1cc7d981d204
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( 48 65 62 a2 1e 13 8f aa 11 1b c0 82 9a e7 2d 96 )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 2e 08 c8 54 55 c9 ac 2b a6 85 9c 1c c7 d9 81 d2 )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-09-10 10:58:36,276 [0x7f53519267e0:server.cpp(191)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-09-10 10:58:36,278 [0x7f53519267e0:server.cpp(70)] DEBUG RadiusServer - connect success
+2013-09-10 10:58:36,278 [0x7f53519267e0:server.cpp(86)] DEBUG RadiusServer - send message success!
+2013-09-10 10:58:38,278 [0x7f53519267e0:server.cpp(114)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Tue, 10 Sep 2013 02:58:36 GMT
+
+
+2013-09-10 10:58:38,278 [0x7f53519267e0:server.cpp(130)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-09-10 10:58:38,278 [0x7f53519267e0:server.cpp(297)] DEBUG RadiusServer - Verify         NO
+2013-09-10 10:58:38,278 [0x7f53519267e0:server.cpp(232)] DEBUG RadiusServer - response packet:
+2013-09-10 10:58:38,278 [0x7f53519267e0:server.cpp(233)] DEBUG RadiusServer - 
+030000264c2b68d37338a9d9cc2afe17
+bd051e9b0606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( 4c 2b 68 d3 73 38 a9 d9 cc 2a fe 17 bd 05 1e 9b )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-09-10 10:58:38,278 [0x7f53519267e0:server.cpp(300)] DEBUG RadiusServer - *******Verify end****************
+2013-09-10 11:02:06,701 [0x7f06d66a97e0:server.cpp(283)] DEBUG RadiusServer - *********Verify start**********
+2013-09-10 11:02:06,701 [0x7f06d66a97e0:server.cpp(284)] DEBUG RadiusServer - receive request from ip 
+2013-09-10 11:02:06,701 [0x7f06d66a97e0:server.cpp(285)] DEBUG RadiusServer - 127.0.0.1:23331
+2013-09-10 11:02:06,701 [0x7f06d66a97e0:server.cpp(287)] DEBUG RadiusServer - request packet:   
+2013-09-10 11:02:06,701 [0x7f06d66a97e0:server.cpp(288)] DEBUG RadiusServer - 
+0100003b5bd236cc59c29639e95b1f82
+e83243f701096a69616e676c75021209
+ee3629b24c44aae0c529d649240b7a04
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( 5b d2 36 cc 59 c2 96 39 e9 5b 1f 82 e8 32 43 f7 )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 09 ee 36 29 b2 4c 44 aa e0 c5 29 d6 49 24 0b 7a )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-09-10 11:02:06,701 [0x7f06d66a97e0:server.cpp(191)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-09-10 11:02:06,703 [0x7f06d66a97e0:server.cpp(70)] DEBUG RadiusServer - connect success
+2013-09-10 11:02:06,703 [0x7f06d66a97e0:server.cpp(86)] DEBUG RadiusServer - send message success!
+2013-09-10 11:02:08,703 [0x7f06d66a97e0:server.cpp(114)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Tue, 10 Sep 2013 03:02:06 GMT
+
+
+2013-09-10 11:02:08,703 [0x7f06d66a97e0:server.cpp(130)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-09-10 11:02:08,703 [0x7f06d66a97e0:server.cpp(297)] DEBUG RadiusServer - Verify         NO
+2013-09-10 11:02:08,703 [0x7f06d66a97e0:server.cpp(232)] DEBUG RadiusServer - response packet:
+2013-09-10 11:02:08,703 [0x7f06d66a97e0:server.cpp(233)] DEBUG RadiusServer - 
+03000026239eacb5bbd0d0acfd9534c5
+510eb1ca0606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( 23 9e ac b5 bb d0 d0 ac fd 95 34 c5 51 0e b1 ca )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-09-10 11:02:08,703 [0x7f06d66a97e0:server.cpp(300)] DEBUG RadiusServer - *******Verify end****************
+2013-09-10 11:27:21,646 [0x7ffb232f07e0:server.cpp(283)] DEBUG RadiusServer - *********Verify start**********
+2013-09-10 11:27:21,646 [0x7ffb232f07e0:server.cpp(284)] DEBUG RadiusServer - receive request from ip 
+2013-09-10 11:27:21,646 [0x7ffb232f07e0:server.cpp(285)] DEBUG RadiusServer - 127.0.0.1:28014
+2013-09-10 11:27:21,646 [0x7ffb232f07e0:server.cpp(287)] DEBUG RadiusServer - request packet:   
+2013-09-10 11:27:21,646 [0x7ffb232f07e0:server.cpp(288)] DEBUG RadiusServer - 
+0100003bf923b31f4ecc37ed7d97678d
+f49819b701096a69616e676c750212a4
+581e0a6a2d7832c8eff2209f04f9ec04
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( f9 23 b3 1f 4e cc 37 ed 7d 97 67 8d f4 98 19 b7 )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( a4 58 1e 0a 6a 2d 78 32 c8 ef f2 20 9f 04 f9 ec )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-09-10 11:27:21,646 [0x7ffb232f07e0:server.cpp(191)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-09-10 11:27:21,648 [0x7ffb232f07e0:server.cpp(70)] DEBUG RadiusServer - connect success
+2013-09-10 11:27:21,648 [0x7ffb232f07e0:server.cpp(86)] DEBUG RadiusServer - send message success!
+2013-09-10 11:27:23,648 [0x7ffb232f07e0:server.cpp(114)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Tue, 10 Sep 2013 03:27:21 GMT
+
+
+2013-09-10 11:27:23,648 [0x7ffb232f07e0:server.cpp(130)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-09-10 11:27:23,648 [0x7ffb232f07e0:server.cpp(297)] DEBUG RadiusServer - Verify         NO
+2013-09-10 11:27:23,648 [0x7ffb232f07e0:server.cpp(232)] DEBUG RadiusServer - response packet:
+2013-09-10 11:27:23,648 [0x7ffb232f07e0:server.cpp(233)] DEBUG RadiusServer - 
+03000026fcd7def4573a318ed0c8868a
+2e4195200606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( fc d7 de f4 57 3a 31 8e d0 c8 86 8a 2e 41 95 20 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-09-10 11:27:23,648 [0x7ffb232f07e0:server.cpp(300)] DEBUG RadiusServer - *******Verify end****************
+2013-09-15 21:01:11,972 [0x7f18e65cb7e0:server.cpp(283)] DEBUG RadiusServer - *********Verify start**********
+2013-09-15 21:01:11,972 [0x7f18e65cb7e0:server.cpp(284)] DEBUG RadiusServer - receive request from ip 
+2013-09-15 21:01:11,972 [0x7f18e65cb7e0:server.cpp(285)] DEBUG RadiusServer - 127.0.0.1:60450
+2013-09-15 21:01:11,972 [0x7f18e65cb7e0:server.cpp(287)] DEBUG RadiusServer - request packet:   
+2013-09-15 21:01:11,972 [0x7f18e65cb7e0:server.cpp(288)] DEBUG RadiusServer - 
+0100003b41fc1b07895349785fdbf892
+a9bf52ee01096a69616e676c7502121a
+d66c07c94f91e1846f3f8bdb16f96f04
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( 41 fc 1b 07 89 53 49 78 5f db f8 92 a9 bf 52 ee )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 1a d6 6c 07 c9 4f 91 e1 84 6f 3f 8b db 16 f9 6f )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-09-15 21:01:11,972 [0x7f18e65cb7e0:server.cpp(191)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-09-15 21:01:11,974 [0x7f18e65cb7e0:server.cpp(70)] DEBUG RadiusServer - connect success
+2013-09-15 21:01:11,974 [0x7f18e65cb7e0:server.cpp(86)] DEBUG RadiusServer - send message success!
+2013-09-15 21:01:13,975 [0x7f18e65cb7e0:server.cpp(114)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Sun, 15 Sep 2013 13:01:03 GMT
+
+
+2013-09-15 21:01:13,975 [0x7f18e65cb7e0:server.cpp(130)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-09-15 21:01:13,975 [0x7f18e65cb7e0:server.cpp(297)] DEBUG RadiusServer - Verify         NO
+2013-09-15 21:01:13,975 [0x7f18e65cb7e0:server.cpp(232)] DEBUG RadiusServer - response packet:
+2013-09-15 21:01:13,975 [0x7f18e65cb7e0:server.cpp(233)] DEBUG RadiusServer - 
+0300002609f915bdbf363bb8c38981a8
+e12c74f20606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( 09 f9 15 bd bf 36 3b b8 c3 89 81 a8 e1 2c 74 f2 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-09-15 21:01:13,975 [0x7f18e65cb7e0:server.cpp(300)] DEBUG RadiusServer - *******Verify end****************
+2013-09-15 21:03:19,745 [0x7f5fb5c477e0:server.cpp(283)] DEBUG RadiusServer - *********Verify start**********
+2013-09-15 21:03:19,746 [0x7f5fb5c477e0:server.cpp(284)] DEBUG RadiusServer - receive request from ip 
+2013-09-15 21:03:19,746 [0x7f5fb5c477e0:server.cpp(285)] DEBUG RadiusServer - 127.0.0.1:48230
+2013-09-15 21:03:19,746 [0x7f5fb5c477e0:server.cpp(287)] DEBUG RadiusServer - request packet:   
+2013-09-15 21:03:19,746 [0x7f5fb5c477e0:server.cpp(288)] DEBUG RadiusServer - 
+0100003bbfda54b932ee21342d080d88
+8ddd187c01096a69616e676c7502121e
+c184c750a0c1d785fb56cc4fbc045204
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( bf da 54 b9 32 ee 21 34 2d 08 0d 88 8d dd 18 7c )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 1e c1 84 c7 50 a0 c1 d7 85 fb 56 cc 4f bc 04 52 )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-09-15 21:03:19,746 [0x7f5fb5c477e0:server.cpp(191)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-09-15 21:03:19,747 [0x7f5fb5c477e0:server.cpp(70)] DEBUG RadiusServer - connect success
+2013-09-15 21:03:19,747 [0x7f5fb5c477e0:server.cpp(86)] DEBUG RadiusServer - send message success!
+2013-09-15 21:03:21,748 [0x7f5fb5c477e0:server.cpp(114)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Sun, 15 Sep 2013 13:03:11 GMT
+
+
+2013-09-15 21:03:21,748 [0x7f5fb5c477e0:server.cpp(130)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-09-15 21:03:21,748 [0x7f5fb5c477e0:server.cpp(297)] DEBUG RadiusServer - Verify         NO
+2013-09-15 21:03:21,748 [0x7f5fb5c477e0:server.cpp(232)] DEBUG RadiusServer - response packet:
+2013-09-15 21:03:21,748 [0x7f5fb5c477e0:server.cpp(233)] DEBUG RadiusServer - 
+030000267cdbe90d8e44c0ad931b9d4f
+c344360e0606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( 7c db e9 0d 8e 44 c0 ad 93 1b 9d 4f c3 44 36 0e )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-09-15 21:03:21,748 [0x7f5fb5c477e0:server.cpp(300)] DEBUG RadiusServer - *******Verify end****************
+2013-09-15 21:06:03,089 [0x7f6c497da7e0:server.cpp(283)] DEBUG RadiusServer - *********Verify start**********
+2013-09-15 21:06:03,089 [0x7f6c497da7e0:server.cpp(284)] DEBUG RadiusServer - receive request from ip 
+2013-09-15 21:06:03,089 [0x7f6c497da7e0:server.cpp(285)] DEBUG RadiusServer - 127.0.0.1:50104
+2013-09-15 21:06:03,089 [0x7f6c497da7e0:server.cpp(287)] DEBUG RadiusServer - request packet:   
+2013-09-15 21:06:03,089 [0x7f6c497da7e0:server.cpp(288)] DEBUG RadiusServer - 
+0100003bcc27b03aed202a3c3c4802aa
+e19dcdaa01096a69616e676c750212b7
+fa673e43473004cf10055758a7557d04
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( cc 27 b0 3a ed 20 2a 3c 3c 48 02 aa e1 9d cd aa )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( b7 fa 67 3e 43 47 30 04 cf 10 05 57 58 a7 55 7d )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-09-15 21:06:03,089 [0x7f6c497da7e0:server.cpp(191)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-09-15 21:06:03,091 [0x7f6c497da7e0:server.cpp(70)] DEBUG RadiusServer - connect success
+2013-09-15 21:06:03,091 [0x7f6c497da7e0:server.cpp(86)] DEBUG RadiusServer - send message success!
+2013-09-15 21:06:05,091 [0x7f6c497da7e0:server.cpp(114)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Sun, 15 Sep 2013 13:05:54 GMT
+
+
+2013-09-15 21:06:05,091 [0x7f6c497da7e0:server.cpp(130)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-09-15 21:06:05,091 [0x7f6c497da7e0:server.cpp(297)] DEBUG RadiusServer - Verify         NO
+2013-09-15 21:06:05,091 [0x7f6c497da7e0:server.cpp(232)] DEBUG RadiusServer - response packet:
+2013-09-15 21:06:05,092 [0x7f6c497da7e0:server.cpp(233)] DEBUG RadiusServer - 
+03000026a128f3cee5a431d017793fab
+86dec0290606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( a1 28 f3 ce e5 a4 31 d0 17 79 3f ab 86 de c0 29 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-09-15 21:06:05,092 [0x7f6c497da7e0:server.cpp(300)] DEBUG RadiusServer - *******Verify end****************
+2013-09-15 21:09:54,036 [0x7f1175a4b7e0:server.cpp(283)] DEBUG RadiusServer - *********Verify start**********
+2013-09-15 21:09:54,036 [0x7f1175a4b7e0:server.cpp(284)] DEBUG RadiusServer - receive request from ip 
+2013-09-15 21:09:54,036 [0x7f1175a4b7e0:server.cpp(285)] DEBUG RadiusServer - 127.0.0.1:41355
+2013-09-15 21:09:54,036 [0x7f1175a4b7e0:server.cpp(287)] DEBUG RadiusServer - request packet:   
+2013-09-15 21:09:54,036 [0x7f1175a4b7e0:server.cpp(288)] DEBUG RadiusServer - 
+0100003ba24a0e56503c2f2b97356111
+7ae50bf801096a69616e676c75021247
+db54dfaac0d229fb63e2fdee2d530404
+0600000000050600000003
+
+ 1  Code = Access-Request (1)
+ 1  ID = 0
+ 2  Length = 59
+16  Request Authenticator = ( a2 4a 0e 56 50 3c 2f 2b 97 35 61 11 7a e5 0b f8 )
+ 9  User-Name (1) = "jianglu" ( 6a 69 61 6e 67 6c 75 )
+18  User-Password (2) = "123456" ( 47 db 54 df aa c0 d2 29 fb 63 e2 fd ee 2d 53 04 )
+ 6  NAS-IP-Address (4) = 0.0.0.0 ( 00 00 00 00 )
+ 6  NAS-Port (5) = 3 ( 00 00 00 03 )
+
+
+2013-09-15 21:09:54,036 [0x7f1175a4b7e0:server.cpp(191)] DEBUG RadiusServer - username = jianglu passpword=123456
+2013-09-15 21:09:54,037 [0x7f1175a4b7e0:server.cpp(70)] DEBUG RadiusServer - connect success
+2013-09-15 21:09:54,037 [0x7f1175a4b7e0:server.cpp(86)] DEBUG RadiusServer - send message success!
+2013-09-15 21:09:56,038 [0x7f1175a4b7e0:server.cpp(114)] DEBUG RadiusServer - HTTP/1.1 404 Not Found
+Vary: X-Auth-Token
+Content-Type: application/json
+Content-Length: 0
+Date: Sun, 15 Sep 2013 13:09:45 GMT
+
+
+2013-09-15 21:09:56,038 [0x7f1175a4b7e0:server.cpp(130)] DEBUG RadiusServer - VerifyBceUser fail!
+2013-09-15 21:09:56,038 [0x7f1175a4b7e0:server.cpp(297)] DEBUG RadiusServer - Verify         NO
+2013-09-15 21:09:56,038 [0x7f1175a4b7e0:server.cpp(232)] DEBUG RadiusServer - response packet:
+2013-09-15 21:09:56,038 [0x7f1175a4b7e0:server.cpp(233)] DEBUG RadiusServer - 
+03000026f3642956d3bfe5cc08b6942d
+c4ec10390606000000010f0600000000
+0e06c0a80103
+
+ 1  Code = Access-Reject (3)
+ 1  ID = 0
+ 2  Length = 38
+16  Request Authenticator = ( f3 64 29 56 d3 bf e5 cc 08 b6 94 2d c4 ec 10 39 )
+ 6  Service-Type (6) = 1 ( 00 00 00 01 )
+ 6  Login-Service (15) = 0 ( 00 00 00 00 )
+ 6  Login-IP-Host (14) = 192.168.1.3 ( c0 a8 01 03 )
+
+
+2013-09-15 21:09:56,038 [0x7f1175a4b7e0:server.cpp(300)] DEBUG RadiusServer - *******Verify end****************
