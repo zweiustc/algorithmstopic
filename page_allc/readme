@@ -1,0 +1,27 @@
+- No makefile provided.
+
+     - Please write your own makefile! (There are plenty of examples in this
+       repository)
+
+
+- object_alloc.[ch] and page_alloc.[ch] are intended to go into a library.
+  Don't put test code in those files.
+
+  Instead, make another C program which demonstrates the functionality of your
+  page_alloc and object_alloc.
+
+  Use page_alloc_test.c and object_alloc_test.c for this.
+
+
+- Your makefile should build the two test programs
+  (page_alloc_test and object_alloc_test).
+
+
+ 
+
+    
+
+
+
+
+

@@ -1,0 +1,34 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+CFLAGS	Makefile	/^CFLAGS=-g -Wall -O3$/;"	m
+LOOPS	page_alloc_test.c	10;"	d	file:
+OBJECT_OBJECTS	Makefile	/^OBJECT_OBJECTS=$(patsubst %.c,%.o,$(OBJECT_SOURCES))$/;"	m
+OBJECT_SOURCES	Makefile	/^OBJECT_SOURCES=$(wildcard object*.c)$/;"	m
+PAGECOUNT	page_alloc_test.c	9;"	d	file:
+PAGE_ALLOC_H	page_alloc.h	2;"	d
+PAGE_OBJECTS	Makefile	/^PAGE_OBJECTS=$(patsubst %.c,%.o,$(PAGE_SOURCES))$/;"	m
+PAGE_SOURCES	Makefile	/^PAGE_SOURCES=$(wildcard page*.c)$/;"	m
+PageHeader	page_alloc.c	/^typedef struct PageHeader$/;"	s	file:
+PageHeader	page_alloc.c	/^} PageHeader;$/;"	t	typeref:struct:PageHeader	file:
+addPage	page_alloc.c	/^static void addPage (void * page)$/;"	f	file:
+alloc_firstfree	page_alloc.c	/^static PageHeader * alloc_firstfree = 0;$/;"	v	file:
+alloc_pagesize	page_alloc.c	/^static unsigned int alloc_pagesize = 0;$/;"	v	file:
+cookie	page_alloc.c	/^   void * cookie;$/;"	m	struct:PageHeader	file:
+doTest	page_alloc_test.c	/^void doTest (unsigned int pagesize)$/;"	f
+main	page_alloc_test.c	/^int main (int argc, char ** args)$/;"	f
+marker	page_alloc_test.c	/^static void * marker (void * ptr)$/;"	f	file:
+nextpage	page_alloc.c	/^   struct PageHeader * nextpage;$/;"	m	struct:PageHeader	typeref:struct:PageHeader::PageHeader	file:
+opt_verbose	page_alloc_test.c	/^static unsigned int opt_verbose = 0;$/;"	v	file:
+page_alloc_add	page_alloc.c	/^int page_alloc_add (void * start, unsigned int count)$/;"	f
+page_alloc_add_done	page_alloc.c	/^int page_alloc_add_done ()$/;"	f
+page_alloc_done	page_alloc.c	/^int page_alloc_done ()$/;"	f
+page_alloc_get_multiple	page_alloc.c	/^void * page_alloc_get_multiple (int * count)$/;"	f
+page_alloc_get_one	page_alloc.c	/^void * page_alloc_get_one ()$/;"	f
+page_alloc_init	page_alloc.c	/^int page_alloc_init (unsigned int pagesize)$/;"	f
+page_alloc_return_multiple	page_alloc.c	/^int page_alloc_return_multiple (void * page, int * count)$/;"	f
+page_alloc_return_one	page_alloc.c	/^int page_alloc_return_one (void * page)$/;"	f
+verify	page_alloc.c	/^static void verify ()$/;"	f	file:
