@@ -47,8 +47,11 @@ def traverseBinaryTree(root):
 
 location = 0
 result = dict()
+
 def formatBinaryTree(root):
     global location
+    global result
+
     location = location + 1
     if root is None:
         location = location - 1
@@ -63,14 +66,29 @@ def formatBinaryTree(root):
     formatBinaryTree(root.right)
     location = location - 1
 
-def findclosestBigger(root, value):
+BiggerValue = None
+def findClosestBigger(root, value):
     if root.value is None:
         return None
+
+    myQueue = [root]
+    global BiggerValue
+    while myQueue:
+        curNode = myQueue.pop(0)
+        if curNode.value > value:
+            BiggerValue = curNode.value
+
+        if curNode.value > value and curNode.left is not None:
+            myQueue.append(curNode.left)
+        elif curNode.value <= value and curNode.right is not None:
+            myQueue.append(curNode.right)
+
 
 
 if __name__ == "__main__":
     numberOfLeaves = 10
     aTree = BinaryTree()
+
     # Construct the BinaryTree
     input_list =  random.sample(range(0, numberOfLeaves), numberOfLeaves)
     for i in input_list:
@@ -82,10 +100,13 @@ if __name__ == "__main__":
 
     print "Begin to format in level"
     formatBinaryTree(aTree.root)
-    global result
     i = 1
     while True:
         if i not in result.keys():
             break
         print result[i]
         i = i + 1
+
+    value = random.randint(0, numberOfLeaves)
+    findClosestBigger(aTree.root, value)
+    print "Biggervalue of {0} in tree is {1}".format(value ,BiggerValue)
