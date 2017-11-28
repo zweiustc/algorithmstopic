@@ -71,6 +71,32 @@ def formatBinaryTree(root):
     formatBinaryTree(root.right)
     location = location - 1
 
+def formatBinaryTree2(root):
+    if root is None:
+        return
+
+    aqueue = [root, None]
+    result2 = list()
+    end_flag = True
+    while aqueue:
+        temp = aqueue.pop(0)
+
+        if temp is None:
+            result2.append('\n')
+        else:
+            result2.append(temp.value)
+
+        if temp is not None and temp.left is not None:
+            aqueue.append(temp.left)
+        if temp is not None and temp.right is not None:
+            aqueue.append(temp.right)
+
+        if temp is None and end_flag == False:
+            aqueue.append(None)
+
+        end_flag = True if temp is None else False
+    return result2[0:-2]
+
 if __name__ == "__main__":
     numberOfLeaves = 10
     aTree = BinaryTree()
@@ -91,3 +117,10 @@ if __name__ == "__main__":
             break
         print result[i]
         i = i + 1
+
+    print "Begin to display values: "
+    traverseBinaryTree(aTree.root)
+
+    print "Begin to format2"
+    result2 = formatBinaryTree2(aTree.root)
+    print result2
